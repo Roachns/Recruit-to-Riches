@@ -15,6 +15,7 @@ Our team will look to answer the following questions:
 * Do recruiting rankings accurately reflect the skill of a player and their likelyhood to be drafted to the NFL?
 * What towns and cities have the highest concentration of players rated in the 247sports composite?
 * What towns and cities have the highest concentration of players drafted to the NFL? 
+* What collegiate programs are highest rated recruits attending?
 * Do recruits that signed with certain collegiate programs have a higher chance of being drafted?
 
 
@@ -23,7 +24,7 @@ Recruiting Ranking Data: https://247sports.com/Season/2012-Football/CompositeRec
 
 National Football League Draft Data: https://www.pro-football-reference.com/years/2017/draft.htm
 
-### Visualization Inspiration
-Our team will present our findings in a variety of visualizations including waffle charts, heat maps, bubble charts, and other to be determined more complex vizuals. [Vizualizations ideas](example_visuals.md)
+### Preesntation and Visualization 
+Our team will present our findings in an html format which tells a compelling story through the use of a variety of visualizations including waffle charts, heat maps, bubble charts, and others created via the JavaScript libraries D3 and Leaflet. [Vizualizations ideas](example_visuals.md)
 
 
