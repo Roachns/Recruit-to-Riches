@@ -10,12 +10,12 @@ Our team will use the recruiting ranking website 247sports, which utilizes a pro
 Once we have compilied our recruiting ranking data we will then analyze NFL draft csv data provided by Pro-Football-Referce.com from the years 2010-2017. Our goal is to draw conculsions regarding the sucess rate of whether a "3-Star", "4-Star", and "5-star" rating will be drafted into the NFL. We will present our findings throught the use of a variety of visual representations.
 
 ### Questions to be Answered 
-Our team will look to answer the following questions
+Our team will look to answer the following questions:
 
--Do recruiting rankings accurately reflect the skill of a player and their likelyhood to be drafted to the NFL?
--What towns and cities have the highest concentration of players rated in the 247sports composite?
--What towns and cities have the highest concentration of players drafted to the NFL? 
--Do recruits that signed with certain collegiate programs have a higher chance of being drafted?
+* Do recruiting rankings accurately reflect the skill of a player and their likelyhood to be drafted to the NFL?
+* What towns and cities have the highest concentration of players rated in the 247sports composite?
+* What towns and cities have the highest concentration of players drafted to the NFL? 
+* Do recruits that signed with certain collegiate programs have a higher chance of being drafted?
 
 
 ### Data
