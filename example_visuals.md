@@ -17,3 +17,8 @@ Use the display which schools are producing NFL draftees.  Use a slider to move 
 Use to show percentage of each recruit rank represented by NFL draftees.
 
 <img src="/example_images/stacked_bar.PNG" height="256">
+
+## Bubble chart
+Use to show recruits rank per class...
+
+<img src="/example_images/bubble_chart.png" height="256">
