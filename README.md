@@ -23,3 +23,5 @@ Recruiting Ranking Data: https://247sports.com/Season/2012-Football/CompositeRec
 
 National Football League Draft Data: https://www.pro-football-reference.com/years/2017/draft.htm
 
+### Vizualization Inspiration
+Our team will present our findings in a variety of vizualizations including waffle charts, heat maps, bubble charts, and other to be determined more complex vizuals. 
