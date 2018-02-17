@@ -24,7 +24,8 @@ Recruiting Ranking Data: https://247sports.com/Season/2012-Football/CompositeRec
 
 National Football League Draft Data: https://www.pro-football-reference.com/years/2017/draft.htm
 
-### Preesntation and Visualization 
+### Presentation and Visualization 
 Our team will present our findings in an html format which tells a compelling story through the use of a variety of visualizations including waffle charts, heat maps, bubble charts, and others created via the JavaScript libraries D3 and Leaflet. [vizualizations inspiration](example_visuals.md)
 
-
+#### Draft Site layout
+![](/example_images/recruit-riches-layout.png)
