@@ -1,0 +1,160 @@
+,city,heightFt,heightIn,location,player,position,rankO,rankP,rate,school,state,weight,year,lat,lng
+0,Bamberg,6,4,"Bamberg, SC, united states of america",Da'Quan Bowers,SDE,0,1,5,Bamberg Ehrhardt,SC,265,2008,33.2130154,-81.0166235
+1,Jeannette,6,6,"Jeannette, PA, united states of america",Terrelle Pryor,DUAL,0,2,5,Jeannette,PA,233,2008,40.3281247,-79.6153198
+2,Foley,6,4,"Foley, AL, united states of america",Julio Jones,WR,0,3,5,Foley,AL,220,2008,30.4065868,-87.6835974
+3,Foley,6,6,"Foley, AL, united states of america",D.J. Fluker,OT,0,30,5,Foley,AL,335,2009,30.4065868,-87.6835974
+4,Ventura,6,0,"Ventura, CA, united states of america",Darrell Scott,RB,0,4,5,St. Bonaventure,CA,204,2008,34.343649,-119.295171010504
+5,Jersey City,6,1,"Jersey City, NJ, united states of america",Will Hill,S,0,5,5,St. Peters Prep,NJ,207,2008,40.7281575,-74.0776417
+6,Jersey City,6,0,"Jersey City, NJ, united states of america",Savon Huggins,RB,29,28,5,St. Peters Prep,NJ,190,2011,40.7281575,-74.0776417
+7,Pompano Beach,6,1,"Pompano Beach, FL, united states of america",Patrick Peterson,CB,0,6,5,Blanche Ely,FL,195,2008,26.2378597,-80.1247667
+8,Summerville,6,4,"Summerville, SC, united states of america",A.J. Green,WR,0,7,5,Summerville,SC,184,2008,33.0206179,-80.1747537
+9,Wichita,6,1,"Wichita, KS, united states of america",Arthur Brown,ILB,0,8,5,East,KS,210,2008,37.6922361,-97.3375448
+10,Wichita,6,0,"Wichita, KS, united states of america",Bryce Brown,RB,0,2,5,East,KS,215,2009,37.6922361,-97.3375448
+11,Van Horn,6,0,"Van Horn, TX, united states of america",Jermie Calhoun,RB,0,9,5,Van Horn,TX,210,2008,31.0380062,-104.8303694
+12,Keller,6,3,"Keller, TX, united states of america",R.J. Washington,SDE,0,10,5,Fossil Ridge,TX,248,2008,32.9299655,-97.2271249
+13,Miami,6,3,"Miami, FL, united states of america",Marcus Forston,DT,0,11,5,Northwestern,FL,286,2008,25.7742658,-80.1936589
+14,Miami,6,3,"Miami, FL, united states of america",Etienne Sabino,OLB,0,24,5,Dr Michael M. Krop,FL,240,2008,25.7742658,-80.1936589
+15,Miami,5,11,"Miami, FL, united states of america",Brandon Harris,CB,0,25,5,Booker T. Washington,FL,174,2008,25.7742658,-80.1936589
+16,Miami,5,8,"Miami, FL, united states of america",Lamarcus Joyner,ATH,14,12,5,St. Thomas Aquinas,FL,175,2010,25.7742658,-80.1936589
+17,Miami,5,10,"Miami, FL, united states of america",Duke Johnson,APB,29,20,5,Norland,FL,175,2012,25.7742658,-80.1936589
+18,Pascagoula,6,6,"Pascagoula, MS, united states of america",DeAndre Brown,WR,0,12,5,Ocean Springs,MS,205,2008,30.3646795,-88.5585995
+19,Aliquippa,6,6,"Aliquippa, PA, united states of america",Jonathan Baldwin,WR,0,13,5,Aliquippa,PA,233,2008,40.6102386,-80.267726
+20,Aliquippa,6,0,"Aliquippa, PA, united states of america",Rushel Shell,RB,60,32,5,Hopewell,PA,215,2012,40.6102386,-80.267726
+21,Saint Paul,6,3,"Saint Paul, MN, united states of america",Michael Floyd,WR,0,14,5,Cretin Derham Hall,MN,195,2008,44.9504037,-93.1015026
+22,Saint Paul,6,8,"Saint Paul, MN, united states of america",Seantrel Henderson,OT,6,2,5,Cretin Derham Hall,MN,330,2010,44.9504037,-93.1015026
+23,Orlando,6,5,"Orlando, FL, united states of america",Michael Brewster,OC,0,15,5,Edgewater,FL,293,2008,28.5423999,-81.3794368
+24,Orlando,6,2,"Orlando, FL, united states of america",Ha Ha Clinton-Dix,S,19,7,5,Dr. Phillips,FL,190,2011,28.5423999,-81.3794368
+25,Orange,6,4,"Orange, CA, united states of america",Blake Ayles,TE,0,16,5,Orange Lutheran,CA,245,2008,33.7500378,-117.8704931
+26,Buford,6,1,"Buford, GA, united states of america",Omar Hunter,DT,0,17,5,Buford,GA,300,2008,34.1206564,-84.0043513
+27,Cartersville,6,0,"Cartersville, GA, united states of america",Richard Samuel,RB,0,18,5,Cass,GA,197,2008,34.1650972,-84.7999383
+28,Crawfordville,6,2,"Crawfordville, FL, united states of america",Nigel Bradham,OLB,0,19,5,Wakulla,FL,230,2008,30.1760358,-84.3751778
+29,Anaheim,6,7,"Anaheim, CA, united states of america",Matt Kalil,OT,0,20,5,Servite,CA,281,2008,33.8347516,-117.911732
+30,Dublin,6,8,"Dublin, OH, united states of america",Mike Adams,OT,0,21,5,Dublin Coffman,OH,300,2008,40.0992294,-83.1140771
+31,Sherman Oaks,6,5,"Sherman Oaks, CA, united states of america",Dayne Crist,PRO,0,22,5,Notre Dame,CA,228,2008,34.1508718,-118.4489865
+32,Birmingham,6,6,"Birmingham, AL, united states of america",Tyler Love,OT,0,23,5,Mountain Brook,AL,307,2008,33.5206824,-86.8024326
+33,Virginia Beach,6,5,"Virginia Beach, VA, united states of america",EJ Manuel,DUAL,0,26,5,Bayside,VA,220,2008,36.7953025,-76.0509251225811
+34,Mobile,5,11,"Mobile, AL, united states of america",B.J. Scott,CB,0,27,5,Vigor,AL,193,2008,30.6943566,-88.0430541
+35,Mobile,6,5,"Mobile, AL, united states of america",Chris Casher,WDE,49,29,5,WP Davidson,AL,240,2012,30.6943566,-88.0430541
+36,Statesboro,6,2,"Statesboro, GA, united states of america",DeAngelo Tyson,DT,0,28,5,Statesboro,GA,276,2008,32.4490141,-81.7832912
+37,Newport Beach,6,3,"Newport Beach, CA, united states of america",Matt Barkley,PRO,0,1,5,Mater Dei,CA,226,2009,33.6170092,-117.9294401
+38,Houston,6,1,"Houston, TX, united states of america",Russell Shepard,DUAL,0,3,5,Cy Ridge,TX,179,2009,29.7589382,-95.3676974
+39,Houston,6,2,"Houston, TX, united states of america",Craig Loston,S,0,9,5,Aldine Eisenhower,TX,193,2009,29.7589382,-95.3676974
+40,Houston,5,8,"Houston, TX, united states of america",Trey Williams,APB,25,18,5,Dekaney,TX,175,2012,29.7589382,-95.3676974
+41,Honolulu,6,2,"Honolulu, HI, united states of america",Manti Te'o,ILB,0,4,5,Punahou,HI,225,2009,21.3250785,-157.846644178573
+42,Greenville,6,0,"Greenville, FL, united states of america",Jacobbi McDaniel,DT,0,5,5,Madison County,FL,267,2009,30.4694812,-83.6299688
+43,Greenville,6,3,"Greenville, FL, united states of america",Gary Brown,DT,0,10,5,West Gadsden,FL,275,2009,30.4694812,-83.6299688
+44,Pensacola,5,11,"Pensacola, FL, united states of america",Trent Richardson,RB,0,6,5,Escambia,FL,224,2009,30.421309,-87.2169149
+45,Essex,6,0,"Essex, MD, united states of america",Jelani Jenkins,OLB,0,7,5,Good Counsel,MD,230,2009,39.3075071,-76.4790355
+46,Bastrop,6,3,"Bastrop, LA, united states of america",Rueben Randle,WR,0,8,5,Bastrop,LA,195,2009,30.1104947,-97.3152701
+47,Corona,6,2,"Corona, CA, united states of america",Vontaze Burfict,ILB,0,11,5,Centennial,CA,244,2009,33.8752945,-117.5664449
+48,Phoenix,6,3,"Phoenix, AZ, united states of america",Devon Kennard,WDE,0,12,5,Desert Vista,AZ,257,2009,33.4485866,-112.0773456
+49,Austin,6,4,"Austin, TX, united states of america",Garrett Gilbert,PRO,0,13,5,Lake Travis,TX,205,2009,30.2711286,-97.7436995
+50,Gadsden,6,3,"Gadsden, AL, united states of america",Dre Kirkpatrick,CB,0,14,5,Gadsden City,AL,192,2009,33.9573115,-86.0678139379529
+51,Sanford,5,11,"Sanford, FL, united states of america",Andre Debose,WR,0,15,5,Seminole,FL,188,2009,28.8117179,-81.2680328
+52,Wolfforth,6,6,"Wolfforth, TX, united states of america",Mason Walters,OT,0,16,5,Frenship,TX,290,2009,33.5059189,-102.0090575
+53,Andalusia,6,3,"Andalusia, AL, united states of america",Nico Johnson,ILB,0,17,5,Andalusia,AL,245,2009,31.3085039,-86.4832033
+54,Atlanta,5,11,"Atlanta, GA, united states of america",Branden Smith,CB,0,18,5,Washington,GA,171,2009,33.7490987,-84.3901849
+55,Tampa,6,1,"Tampa, FL, united states of america",Aaron Murray,DUAL,0,19,5,Plant,FL,198,2009,27.9477595,-82.458444
+56,Tampa,6,4,"Tampa, FL, united states of america",Anthony Chickillo,WDE,25,22,5,Alonso,FL,230,2011,27.9477595,-82.458444
+57,Tampa,6,2,"Tampa, FL, united states of america",James Wilder,ATH,27,25,5,Plant,FL,220,2011,27.9477595,-82.458444
+58,Tampa,6,1,"Tampa, FL, united states of america",Nelson Agholor,ATH,31,30,5,Berkeley Prep,FL,185,2012,27.9477595,-82.458444
+59,Monroeville,6,1,"Monroeville, PA, united states of america",Dorian Bell,OLB,0,20,5,Gateway,PA,225,2009,40.4211798,-79.7881025
+60,Fayetteville,6,5,"Fayetteville, NC, united states of america",Xavier Nixon,OT,0,21,5,Jack Britt,NC,295,2009,35.0525759,-78.878292
+61,Beaumont,5,11,"Beaumont, TX, united states of america",Christine Michael,RB,0,22,5,West Brook,TX,200,2009,30.0860459,-94.1018461
+62,Lufkin,6,2,"Lufkin, TX, united states of america",Jamarkus McFarland,DT,0,23,5,Lufkin,TX,296,2009,31.3386242,-94.7288558
+63,West Helena,6,0,"West Helena, AR, united states of america",Darius Winston,CB,0,24,5,Helena-West Helena Central,AR,191,2009,34.5506573,-90.6417741
+64,Valdosta,5,9,"Valdosta, GA, united states of america",Greg Reid,CB,0,25,5,Lowndes,GA,175,2009,30.8327022,-83.2784851
+65,Valdosta,6,5,"Valdosta, GA, united states of america",Josh Harvey-Clemons,OLB,32,22,5,Lowndes,GA,200,2012,30.8327022,-83.2784851
+66,Jacksonville,6,4,"Jacksonville, NC, united states of america",Donte Moss,WDE,0,26,5,Northside,NC,235,2009,34.7540524,-77.4302415
+67,Memphis,6,5,"Memphis, TN, united states of america",Marlon Brown,WR,0,27,5,Harding Academy of Memphis,TN,200,2009,35.1490215,-90.0516285
+68,Visalia,6,4,"Visalia, CA, united states of america",Sheldon Richardson,DT,0,28,5,Gateway,CA,292,2009,36.3302284,-119.2920585
+69,Mansfield,6,4,"Mansfield, LA, united states of america",Chris Davenport,DT,0,29,5,Mansfield,LA,318,2009,40.75839,-82.5154471
+70,Hampton,6,1,"Hampton, VA, united states of america",Tajh Boyd,PRO,0,31,5,Phoebus,VA,220,2009,37.0300969,-76.3452057
+71,Fresno,6,2,"Fresno, CA, united states of america",T.J. McDonald,S,0,32,5,Edison,CA,200,2009,36.7295295,-119.708861260756
+72,Moreno Valley,6,4,"Moreno Valley, CA, united states of america",Ronald Powell,WDE,1,1,5,Rancho Verde,CA,230,2010,33.937517,-117.2305944
+73,Gardena,6,1,"Gardena, CA, united states of america",Robert Woods,ATH,2,3,5,Junipero Serra,CA,180,2010,33.888658,-118.307648
+74,Gardena,6,2,"Gardena, CA, united states of america",George Farmer,WR,11,8,5,Junipero Serra,CA,200,2011,33.888658,-118.307648
+75,Staten Island,6,3,"Staten Island, NY, united states of america",Dominique Easley,DT,4,4,5,Curtis,NY,258,2010,40.5834557,-74.1496048
+76,Plano,6,3,"Plano, TX, united states of america",Jackson Jeffcoat,SDE,7,5,5,Plano West,TX,230,2010,33.0136764,-96.6925096
+77,Philadelphia,6,3,"Philadelphia, PA, united states of america",Sharrif Floyd,SDE,3,6,5,George Washington,PA,310,2010,39.9523993,-75.1635899
+78,West Chester,6,2,"West Chester, OH, united states of america",Jordan Hicks,OLB,5,7,5,Lakota West,OH,220,2010,40.2336795,-81.3442776
+79,Little Rock,5,9,"Little Rock, AR, united states of america",Michael Dyer,RB,13,8,5,Little Rock Christian Academy,AR,212,2010,34.7464809,-92.2895948
+80,Duncan,6,0,"Duncan, SC, united states of america",Marcus Lattimore,APB,16,9,5,Byrnes,SC,215,2010,34.9378962,-82.1451096
+81,Greensboro,6,2,"Greensboro, NC, united states of america",Keenan Allen,S,17,10,5,Northern Guilford,NC,195,2010,36.0726355,-79.7919754
+82,Hillside,6,5,"Hillside, IL, united states of america",Kyle Prater,WR,11,11,5,Proviso West,IL,205,2010,41.8778084,-87.9028398
+83,Dallas,6,1,"Dallas, TX, united states of america",Mike Davis,WR,8,13,5,Skyline,TX,185,2010,32.7762719,-96.7968559
+84,Dallas,5,11,"Dallas, TX, united states of america",Thomas Johnson,WR,44,33,5,Skyline,TX,175,2012,32.7762719,-96.7968559
+85,Millbrook,6,1,"Millbrook, AL, united states of america",Dee Milliner,CB,19,14,5,Stanhope Elmore,AL,196,2010,32.4798575,-86.3619163
+86,Calhoun,6,3,"Calhoun, GA, united states of america",Da'Rick Rogers,WR,30,15,5,Calhoun,GA,215,2010,31.5311784,-84.614328
+87,Palm Beach Gardens,6,0,"Palm Beach Gardens, FL, united states of america",Matt Elam,S,15,16,5,Dwyer,FL,205,2010,26.84176195,-80.1353088134005
+88,Palm Beach Gardens,6,4,"Palm Beach Gardens, FL, united states of america",Nick O'Leary,TE,16,27,5,Dwyer,FL,230,2011,26.84176195,-80.1353088134005
+89,Portland,6,3,"Portland, OR, united states of america",Owamagbe Odighizuwa,SDE,21,17,5,Douglas,OR,234,2010,45.5202471,-122.6741949
+90,Detroit,6,7,"Detroit, MI, united states of america",William Gholston,SDE,20,18,5,Southeastern,MI,237,2010,42.3486635,-83.0567375
+91,Newnan,6,3,"Newnan, GA, united states of america",Alec Ogletree,ILB,28,19,5,Newnan,GA,210,2010,33.3806716,-84.7996573
+92,Las Vegas,6,6,"Las Vegas, NV, united states of america",Xavier Grimble,TE,18,20,5,Bishop Gorman,NV,245,2010,36.1662859,-115.149225
+93,Winter Park,6,4,"Winter Park, FL, united states of america",Christian Jones,OLB,29,21,5,Lake Howell,FL,220,2010,28.6000625,-81.3427438436485
+94,Palmdale,6,1,"Palmdale, CA, united states of america",Josh Shaw,CB,10,22,5,Palmdale,CA,195,2010,34.5793131,-118.1171108
+95,Fort Worth,6,2,"Fort Worth, TX, united states of america",Reggie Wilson,SDE,35,23,5,Haltom,TX,240,2010,32.753177,-97.3327459
+96,Fort Worth,6,2,"Fort Worth, TX, united states of america",Darius White,WR,58,27,5,Dunbar,TX,205,2010,32.753177,-97.3327459
+97,Chino,6,4,"Chino, CA, united states of america",George Uko,DT,39,24,5,Don Lugo,CA,300,2010,34.0133561,-117.690075
+98,Thibodaux,6,0,"Thibodaux, LA, united states of america",Trovon Reed,ATH,24,25,5,Thibodaux,LA,185,2010,29.7957633,-90.822871
+99,Port Saint Lucie,6,0,"Port Saint Lucie, FL, united states of america",Jeff Luc,ILB,71,26,5,Treasure Coast,FL,249,2010,27.2939333,-80.3503283
+100,Suwanee,6,7,"Suwanee, GA, united states of america",Ja'Wuan James,OT,12,28,5,North Gwinnett,GA,315,2010,34.0514898,-84.0712997
+101,Hillsborough,6,7,"Hillsborough, NC, united states of america",Robert Crisp,OT,52,29,5,Cedar Ridge,NC,299,2010,36.0752297,-79.0992279
+102,San Diego,5,11,"San Diego, CA, united states of america",Dillon Baxter,APB,9,30,5,Mission Bay,CA,187,2010,32.7174209,-117.1627714
+103,Chesapeake,6,2,"Chesapeake, VA, united states of america",Phillip Sims,PRO,41,31,5,Oscar Smith,VA,217,2010,36.7183708,-76.2466798
+104,Temple,5,11,"Temple, TX, united states of america",Lache Seastrunk,RB,83,32,5,Temple,TX,190,2010,31.098207,-97.3427847
+105,Rock Hill,6,5,"Rock Hill, SC, united states of america",Jadeveon Clowney,WDE,1,1,5,South Pointe,SC,255,2011,34.9248667,-81.0250784
+106,Hyattsville,6,7,"Hyattsville, MD, united states of america",Cyrus Kouandjio,OT,2,2,5,DeMatha Catholic,MD,315,2011,38.9529792,-76.9408758
+107,Baton Rouge,6,5,"Baton Rouge, LA, united states of america",La'el Collins,OT,3,3,5,Redemptorist,LA,306,2011,30.4507462,-91.154551
+108,Davenport,6,2,"Davenport, FL, united states of america",Karlos Williams,S,7,4,5,Ridge Community,FL,210,2011,28.1614046,-81.6017417
+109,New Orleans,6,3,"New Orleans, LA, united states of america",Anthony Johnson,DT,8,5,5,O Perry Walker,LA,294,2011,30.03280175,-89.9750054503052
+110,Columbus,5,11,"Columbus, GA, united states of america",Isaiah Crowell,RB,14,6,5,Carver,GA,210,2011,32.4609764,-84.9877094
+111,Cape Coral,6,6,"Cape Coral, FL, united states of america",Aaron Lynch,SDE,6,9,5,Island Coast,FL,240,2011,26.6059432,-81.9806771
+112,Cape Coral,5,11,"Cape Coral, FL, united states of america",Mario Pender,RB,41,37,5,Island Coast,FL,194,2012,26.6059432,-81.9806771
+113,Chandler,6,5,"Chandler, AZ, united states of america",Christian Westerman,OT,26,10,5,Hamilton,AZ,288,2011,33.3067132,-111.8408489
+114,Lake City,6,3,"Lake City, FL, united states of america",Timmy Jernigan,DT,4,11,5,Columbia,FL,280,2011,30.1896756,-82.6392899
+115,Brookshire,6,1,"Brookshire, TX, united states of america",Brandon Williams,RB,18,12,5,Royal,TX,196,2011,29.7860643,-95.9510661
+116,Los Angeles,5,9,"Los Angeles, CA, united states of america",De'Anthony Thomas,APB,5,13,5,Crenshaw,CA,160,2011,34.054935,-118.244476
+117,Schertz,6,1,"Schertz, TX, united states of america",Malcolm Brown,RB,24,14,5,Steele,TX,219,2011,29.5641617,-98.2695702
+118,Lutcher,5,11,"Lutcher, LA, united states of america",Jarvis Landry,WR,17,15,5,Lutcher,LA,194,2011,30.0404796,-90.6989797
+119,Saint Augustine,6,2,"Saint Augustine, FL, united states of america",Tony Steward,OLB,12,16,5,Pedro Menendez,FL,220,2011,29.8946952,-81.3145395
+120,Oviedo,6,4,"Oviedo, FL, united states of america",Jeff Driskel,DUAL,13,17,5,Hagerty,FL,235,2011,28.6593925,-81.2046904649668
+121,Thomasville,6,5,"Thomasville, GA, united states of america",Ray Drew,SDE,41,18,5,Thomas County Central,GA,250,2011,30.8365815,-83.9787808
+122,Whitehouse,6,2,"Whitehouse, TX, united states of america",Trey Metoyer,WR,21,19,5,Whitehouse,TX,200,2011,32.2268212,-95.2255041
+123,Fort Myers,6,1,"Fort Myers, FL, united states of america",Sammy Watkins,WR,9,20,5,South Fort Myers,FL,180,2011,26.640628,-81.8723084
+124,Wadesboro,6,3,"Wadesboro, NC, united states of america",Stephone Anthony,OLB,10,21,5,Anson,NC,220,2011,34.9682097,-80.0767266
+125,Richmond,6,3,"Richmond, VA, united states of america",Curtis Grant,ILB,43,23,5,Hermitage,VA,222,2011,37.5385087,-77.43428
+126,Daingerfield,6,3,"Daingerfield, TX, united states of america",Steve Edmond,ILB,15,24,5,Daingerfield,TX,235,2011,33.031793,-94.7218731
+127,Brooklyn,6,5,"Brooklyn, NY, united states of america",Ishaq Williams,OLB,45,26,5,Abraham Lincoln,NY,242,2011,40.6501038,-73.9495823
+128,Dayton,6,2,"Dayton, OH, united states of america",Braxton Miller,DUAL,20,29,5,Wayne,OH,185,2011,39.7589478,-84.1916069
+129,Springfield,6,2,"Springfield, OH, united states of america",Trey DePriest,ILB,23,30,5,Springfield,OH,242,2011,39.9242266,-83.8088172
+130,Springfield,6,6,"Springfield, MO, united states of america",Dorial Green-Beckham,WR,2,1,5,Hillcrest,MO,220,2012,37.2166779,-93.2920373
+131,Denton,6,3,"Denton, TX, united states of america",Mario Edwards,DT,1,2,5,Ryan,TX,285,2012,33.1838787,-97.1413417
+132,Charlotte,6,5,"Charlotte, NC, united states of america",D.J. Humphries,OT,5,3,5,Mallard Creek,NC,275,2012,35.2270869,-80.8431268
+133,Sacramento,6,2,"Sacramento, CA, united states of america",Shaq Thompson,S,6,4,5,Grant Union,CA,210,2012,38.5815719,-121.4943996
+134,Harrisburg,6,3,"Harrisburg, PA, united states of america",Noah Spence,WDE,12,5,5,Bishop McDevitt,PA,235,2012,40.2663107,-76.8861122
+135,Aledo,5,11,"Aledo, TX, united states of america",Johnathan Gray,RB,9,6,5,Aledo,TX,200,2012,32.6974295,-97.6039837253086
+136,Geismar,6,0,"Geismar, LA, united states of america",Landon Collins,S,3,7,5,Dutchtown,LA,210,2012,30.2043633,-91.0226013
+137,Olney,6,1,"Olney, MD, united states of america",Stefon Diggs,WR,10,8,5,Good Counsel,MD,190,2012,39.1532123,-77.0668408
+138,Brenham,6,3,"Brenham, TX, united states of america",Malcom Brown,DT,7,9,5,Brenham,TX,300,2012,30.1668828,-96.3977442
+139,Washington,6,5,"Washington, DC, united states of america",Eddie Goldman,DT,14,10,5,Friendship Academy,DC,305,2012,38.8949549,-77.0366456
+140,San Clemente,6,7,"San Clemente, CA, united states of america",Kyle Murphy,OT,11,11,5,San Clemente,CA,270,2012,33.4270275,-117.6124179
+141,Shelby,6,4,"Shelby, NC, united states of america",Jonathan Bullard,SDE,30,12,5,Crest,NC,245,2012,35.2923513,-81.5356463
+142,Raleigh,5,11,"Raleigh, NC, united states of america",Keith Marshall,APB,21,13,5,Millbrook,NC,195,2012,35.7803977,-78.6390989
+143,Elk Grove,6,8,"Elk Grove, CA, united states of america",Arik Armstead,ATH,4,14,5,Pleasant Grove,CA,285,2012,38.4087993,-121.3716178
+144,Jacksonville,6,5,"Jacksonville, FL, united states of america",John Theus,OT,35,15,5,The Bolles School,FL,305,2012,30.3321838,-81.655651
+145,Hueytown,6,4,"Hueytown, AL, united states of america",Jameis Winston,DUAL,26,16,5,Hueytown,AL,190,2012,33.4512197,-86.9966606
+146,Panama City Beach,6,2.5,"Panama City Beach, FL, united states of america",Eddie Williams,ATH,8,17,5,Arnold,FL,196,2012,30.1765914,-85.8054879
+147,Cincinnati,6,4,"Cincinnati, OH, united states of america",Adolphus Washington,WDE,20,19,5,Taft,OH,245,2012,39.1014537,-84.5124602
+148,Ramsey,6,4,"Ramsey, NJ, united states of america",Darius Hamilton,SDE,23,21,5,Don Bosco Prep,NJ,250,2012,41.0573188,-74.1409771
+149,Hollywood,5,11,"Hollywood, FL, united states of america",Tracy Howard,CB,40,23,5,Miramar,FL,175,2012,26.0112014,-80.1494901
+150,Monrovia,6,5,"Monrovia, CA, united states of america",Ellis McCarthy,DT,43,24,5,Monrovia,CA,315,2012,34.1483499,-118.0014517
+151,Oxon Hill,5,11,"Oxon Hill, MD, united states of america",Ronald Darby,CB,16,25,5,Potomac,MD,174,2012,38.8035961,-76.9896573
+152,Columbus,6,4,"Columbus, IN, united states of america",Gunner Kiel,PRO,24,26,5,Columbus East,IN,210,2012,39.2014405,-85.9213796
+153,Daphne,6,2,"Daphne, AL, united states of america",T.J. Yeldon,RB,13,27,5,Daphne,AL,205,2012,30.6035255,-87.9036047
+154,Corvallis,6,3,"Corvallis, OR, united states of america",Isaac Seumalo,OG,27,28,5,Corvallis,OR,280,2012,44.5645659,-123.2620435
+155,Tempe,6,7,"Tempe, AZ, united states of america",Andrus Peat,OT,64,31,5,Corona Del Sol,AZ,305,2012,33.4144139,-111.9094474
+156,Hamilton,6,3,"Hamilton, GA, united states of america",Jordan Jenkins,WDE,28,34,5,Harris County,GA,242,2012,32.7579107,-84.8749311
+157,Aberdeen,6,3,"Aberdeen, MS, united states of america",Channing Ward,WDE,36,35,5,Aberdeen,MS,250,2012,33.8251139,-88.5436553
+158,Saint Petersburg,6,3,"Saint Petersburg, FL, united states of america",Dante Fowler,WDE,15,36,5,Lakewood,FL,258,2012,27.7703796,-82.6695085
