@@ -1,0 +1,69 @@
+﻿Pos,Meaning
+QB,Quarterback
+RB,Running back
+HB,Halfback
+TB,Tailback
+FB,Fullback
+LH,Left Halfback
+RH,Right Halfback
+BB,Blocking Back
+B,Back
+WB,Wingback
+WR,Wide Receiver
+FL,Flanker
+SE,Split End
+E,End
+TE,Tight End
+LE,Left End
+LT,Left Tackle
+LOT,Left Offensive Tackle
+T,Tackle
+LG,Left Guard
+G,Guard
+C,Center
+RG,Right Guard
+RT,Right Tackle
+ROT,Right Offensive Tackle
+RE,Right End
+DL,Defensive Lineman
+LDE,Left Defensive End
+DE,Defensive End
+LDT,Left Defensive Tackle
+DT,Defensive Tackle
+NT,Nose Tackle
+MG,Middle Guard
+DG,Defensive Guard
+RDT,Right Defensive Tackle
+RDE,Right Defensive End
+LOLB,Left Outside Linebacker
+RUSH,Rush Linebacker
+OLB,Ooutside Linebacker
+LLB,Left Linebacker
+LILB,Left Inside Linebacker
+WILL,Weak Side Linebacker
+ILB,Inside Linebacker
+SLB,Strong Side Linebacker
+MLB,Middle Linebacker
+MIKE,Middle Linebacker
+WLB,Weak Side Linebacker
+RILB,Right Inside Linebacker
+RLB,Right Linebacker
+ROLB,Right Outside Linebacker
+SAM,Strong Side Linebacker
+LB,Linebacker
+LCB,Left Cornerback
+CB,Cornerback
+RCB,Right Cornerback
+SS,Strong Safety
+FS,Free Safety
+LDH,Left Defensive Halfback
+RDH,Right Defensive Halfback
+LS,Left Safety
+S,Safety
+RS,Right Safety
+DB,Defensive Back
+K,Kicker
+P,Punter
+PR,Punt Returner
+KR,Kick Returner
+RET,Returner
