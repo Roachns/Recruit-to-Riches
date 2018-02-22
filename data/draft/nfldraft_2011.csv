@@ -1,255 +1,255 @@
-﻿Rnd,Pick,Tm,Player,Pos,Age,To,College/Univ
-1,1,CAR,Cam Newton\NewtCa00,QB,22,2017,Auburn
-1,2,DEN,Von Miller\MillVo00,LB,22,2017,Texas A&M
-1,3,BUF,Marcell Dareus\DareMa00,DT,21,2017,Alabama
-1,4,CIN,A.J. Green\GreeA.00,WR,23,2017,Georgia
-1,5,ARI,Patrick Peterson\PetePa00,DB,21,2017,LSU
-1,6,ATL,Julio Jones\JoneJu02,WR,22,2017,Alabama
-1,7,SFO,Aldon Smith\SmitAl04,DE,22,2015,Missouri
-1,8,TEN,Jake Locker\LockJa00,QB,23,2014,Washington
-1,9,DAL,Tyron Smith\SmitTy00,T,20,2017,USC
-1,10,JAX,Blaine Gabbert\GabbBl00,QB,21,2017,Missouri
-1,11,HOU,J.J. Watt\WattJ.00,DE,22,2017,Wisconsin
-1,12,MIN,Christian Ponder\PondCh00,QB,23,2014,Florida St.
-1,13,DET,Nick Fairley\FairNi00,DT,23,2016,Auburn
-1,14,STL,Robert Quinn\QuinRo00,DE,21,2017,North Carolina
-1,15,MIA,Mike Pouncey\PounMi00,G,22,2017,Florida
-1,16,WAS,Ryan Kerrigan\KerrRy00,DE,23,2017,Purdue
-1,17,NWE,Nate Solder\SoldNa00,T,23,2017,Colorado
-1,18,SDG,Corey Liuget\LiugCo00,DT,21,2017,Illinois
-1,19,NYG,Prince Amukamara\AmukPr00,DB,22,2017,Nebraska
-1,20,TAM,Adrian Clayborn\ClayAd00,DE,23,2017,Iowa
-1,21,CLE,Phil Taylor\TaylPh00,DT,23,2014,Baylor
-1,22,IND,Anthony Castonzo\CastAn00,T,23,2017,Boston Col.
-1,23,PHI,Danny Watkins\WatkDa00,G,26,2013,Baylor
-1,24,NOR,Cameron Jordan\JordCa00,DE,22,2017,California
-1,25,SEA,James Carpenter\CarpJa00,T,22,2017,Alabama
-1,26,KAN,Jonathan Baldwin\BaldJo00,WR,22,2013,Pittsburgh
-1,27,BAL,Jimmy Smith\SmitJi03,DB,23,2017,Colorado
-1,28,NOR,Mark Ingram\IngrMa01,RB,21,2017,Alabama
-1,29,CHI,Gabe Carimi\CariGa00,T,23,2014,Wisconsin
-1,30,NYJ,Muhammad Wilkerson\WilkMu00,DT,21,2017,Temple
-1,31,PIT,Cameron Heyward\HeywCa01,DE,22,2017,Ohio St.
-1,32,GNB,Derek Sherrod\SherDe00,T,22,2014,Mississippi St.
-2,33,NWE,Ras-I Dowling\DowlRa00,DB,23,2014,Virginia
-2,34,BUF,Aaron Williams\WillAa00,DB,21,2016,Texas
-2,35,CIN,Andy Dalton\DaltAn00,QB,23,2017,TCU
-2,36,SFO,Colin Kaepernick\KaepCo00,QB,23,2016,Nevada
-2,37,CLE,Jabaal Sheard\SheaJa00,DE,22,2017,Pittsburgh
-2,38,ARI,Ryan Williams\WillRy00,RB,21,2014,Virginia Tech
-2,39,TEN,Akeem Ayers\AyerAk00,LB,22,2017,UCLA
-2,40,DAL,Bruce Carter\CartBr00,LB,23,2017,North Carolina
-2,41,WAS,Jarvis Jenkins\JenkJa01,DT,23,2017,Clemson
-2,42,HOU,Brooks Reed\ReedBr00,LB,24,2017,Arizona
-2,43,MIN,Kyle Rudolph\RudoKy00,TE,21,2017,Notre Dame
-2,44,DET,Titus Young\YounTi00,WR,22,2012,Boise St.
-2,45,DEN,Rahim Moore\MoorRa00,DB,21,2015,UCLA
-2,46,DEN,Orlando Franklin\FranOr00,T,23,2017,Miami (FL)
-2,47,STL,Lance Kendricks\KendLa00,TE,23,2017,Wisconsin
-2,48,OAK,Stefen Wisniewski\WisnSt01,C,22,2017,Penn St.
-2,49,IND,Ben Ijalana\IjalBe00,T,22,2017,Villanova
-2,50,SDG,Marcus Gilchrist\GilcMa00,DB,22,2017,Clemson
-2,51,TAM,Da'Quan Bowers\BoweDa00,DE,21,2015,Clemson
-2,52,NYG,Marvin Austin\AustMa00,DT,22,2014,North Carolina
-2,53,CHI,Stephen Paea\PaeaSt00,DT,23,2017,Oregon St.
-2,54,PHI,Jaiquawn Jarrett\JarrJa00,DB,22,2015,Temple
-2,55,KAN,Rodney Hudson\HudsRo00,C,22,2017,Florida St.
-2,56,NWE,Shane Vereen\VereSh00,RB,22,2017,California
-2,57,DET,Mikel Leshoure\LeshMi00,RB,21,2013,Illinois
-2,58,BAL,Torrey Smith\SmitTo02,WR,22,2017,Maryland
-2,59,CLE,Greg Little\LittGr00,WR,22,2014,North Carolina
-2,60,HOU,Brandon Harris\HarrBr00,DB,21,2014,Miami (FL)
-2,61,SDG,Jonas Mouton\MoutJo00,LB,23,2012,Michigan
-2,62,MIA,Daniel Thomas\ThomDa03,RB,23,2014,Kansas St.
-2,63,PIT,Marcus Gilbert\GilbMa00,T,23,2017,Florida
-2,64,GNB,Randall Cobb\CobbRa00,WR,21,2017,Kentucky
-3,65,CAR,Terrell McClain\McClTe00,DT,23,2017,South Florida
-3,66,CIN,Dontay Moch\MochDo00,LB,23,2014,Nevada
-3,67,DEN,Nate Irving\IrviNa00,LB,23,2015,North Carolina St.
-3,68,BUF,Kelvin Sheppard\ShepKe00,LB,23,2017,LSU
-3,69,ARI,Rob Housler\HousRo01,TE,23,2015,Florida Atlantic
-3,70,KAN,Justin Houston\HousJu00,LB,22,2017,Georgia
-3,71,DAL,DeMarco Murray\MurrDe00,RB,23,2017,Oklahoma
-3,72,NOR,Martez Wilson\WilsMa01,LB,23,2013,Illinois
-3,73,NWE,Stevan Ridley\RidlSt00,RB,22,2017,LSU
-3,74,NWE,Ryan Mallett\MallRy00,QB,23,2017,Arkansas
-3,75,SEA,John Moffitt\MoffJo00,G,24,2013,Wisconsin
-3,76,JAX,Will Rackley\RackWi01,G,21,2014,Lehigh
-3,77,TEN,Jurrell Casey\CaseJu00,DT,21,2017,USC
-3,78,STL,Austin Pettis\PettAu00,WR,23,2014,Boise St.
-3,79,WAS,Leonard Hankerson\HankLe00,WR,23,2015,Miami (FL)
-3,80,SFO,Chris Culliver\CullCh00,DB,23,2015,South Carolina
-3,81,OAK,DeMarcus Van Dyke\VanDDe00,DB,22,2014,Miami (FL)
-3,82,SDG,Vincent Brown\BrowVi00,WR,22,2015,San Diego St.
-3,83,NYG,Jerrel Jernigan\JernJe00,WR,22,2014,Troy
-3,84,TAM,Mason Foster\FostMa00,LB,22,2017,Washington
-3,85,BAL,Jah Reid\ReidJa00,T,23,2016,Central Florida
-3,86,KAN,Allen Bailey\BailAl00,DE,22,2017,Miami (FL)
-3,87,IND,Drake Nevis\NeviDr00,DT,22,2013,LSU
-3,88,NOR,Johnny Patrick\PatrJo00,DB,23,2013,Louisville
-3,89,SDG,Shareece Wright\WrigSh00,DB,24,2017,USC
-3,90,PHI,Curtis Marsh\MarsCu01,DB,23,2014,Utah St.
-3,91,ATL,Akeem Dent\DentAk00,LB,24,2016,Georgia
-3,92,OAK,Joe Barksdale\BarkJo00,T,23,2017,LSU
-3,93,CHI,Chris Conte\ContCh00,DB,22,2017,California
-3,94,NYJ,Kenrick Ellis\ElliKe01,DT,23,2015,Hampton
-3,95,PIT,Curtis Brown\BrowCu01,DB,23,2013,Texas
-3,96,GNB,Alex Green\GreeAl00,RB,23,2013,Hawaii
-3,97,CAR,Sione Fua\FuaxSi00,DT,23,2014,Stanford
-4,98,CAR,Brandon Hogan\HogaBr00,DB,23,2011,West Virginia
-4,99,SEA,K.J. Wright\WrigK.00,LB,22,2017,Mississippi St.
-4,100,BUF,Da'Norris Searcy\SearDa00,DB,22,2017,North Carolina
-4,101,CIN,Clint Boling\BoliCl00,G,22,2017,Georgia
-4,102,CLE,Jordan Cameron\CameJo00,TE,23,2016,USC
-4,103,ARI,Sam Acho\AchoSa00,DE,23,2017,Texas
-4,104,TAM,Luke Stocker\StocLu00,TE,23,2017,Tennessee
-4,105,WAS,Roy Helu\HeluRo00,RB,22,2015,Nebraska
-4,106,MIN,Christian Ballard\BallCh00,DT,22,2012,Iowa
-4,107,SEA,Kris Durham\DurhKr00,WR,23,2014,Georgia
-4,108,DEN,Quinton Carter\CartQu01,DB,23,2014,Oklahoma
-4,109,TEN,Colin McCarthy\McCaCo00,LB,22,2014,Miami (FL)
-4,110,DAL,David Arkin\ArkiDa00,G,23,2016,Missouri State
-4,111,MIA,Clyde Gates\GateCl00,WR,25,2013,Abilene Christian
-4,112,STL,Greg Salas\SalaGr00,WR,23,2016,Hawaii
-4,113,OAK,Chimdi Chekwa\ChekCh00,DB,23,2016,Ohio St.
-4,114,JAX,Cecil Shorts\ShorCe00,WR,23,2016,Mount Union
-4,115,SFO,Kendall Hunter\HuntKe00,RB,23,2015,Oklahoma St.
-4,116,PHI,Casey Matthews\MattCa00,LB,22,2014,Oregon
-4,117,NYG,James Brewer\BrewJa00,T,23,2014,Indiana
-4,118,KAN,Jalil Brown\BrowJa00,DB,23,2015,Colorado
-4,119,IND,Delone Carter\CartDe01,RB,24,2013,Syracuse
-4,120,PHI,Alex Henery\HeneAl00,K,24,2014,Nebraska
-4,121,JAX,Chris Prosinski\ProsCh00,DB,24,2017,Wyoming
-4,122,BUF,Chris Hairston\HairCh00,T,22,2017,Clemson
-4,123,BAL,Tandon Doss\DossTa00,WR,22,2014,Indiana
-4,124,CLE,Owen Marecic\MareOw00,RB,22,2012,Stanford
-4,125,OAK,Taiwan Jones\JoneTa00,RB,23,2017,East. Washington
-4,126,NYJ,Bilal Powell\PoweBi00,RB,22,2017,Louisville
-4,127,HOU,Roc Carmichael\CarmRo00,DB,23,2014,Virginia Tech
-4,128,PIT,Cortez Allen\AlleCo00,DB,22,2015,The Citadel
-4,129,DEN,Julius Thomas\ThomJu00,TE,23,2017,Portland St.
-4,130,TEN,Jamie Harper\HarpJa01,RB,22,2012,Clemson
-4,131,GNB,Davon House\HousDa00,DB,22,2017,New Mexico St.
-5,132,CAR,Kealoha Pilares\PilaKe00,WR,23,2012,Hawaii
-5,133,BUF,Johnny White\WhitJo01,RB,23,2012,North Carolina
-5,134,CIN,Robert Sands\SandRo00,DB,21,2012,West Virginia
-5,135,KAN,Ricky Stanzi\StanRi00,QB,24,2014,Iowa
-5,136,ARI,Anthony Sherman\SherAn00,RB,22,2017,Connecticut
-5,137,CLE,Buster Skrine\SkriBu00,DB,22,2017,Tenn-Chattanooga
-5,138,NWE,Marcus Cannon\CannMa00,T,23,2017,TCU
-5,139,MIN,Brandon Burton\BurtBr00,DB,22,2013,Southern Utah
-5,140,KAN,Gabe Miller\MillGa00,LB,23,2014,Oregon St.
-5,141,GNB,D.J. Williams\WillD.00,TE,23,2014,Arkansas
-5,142,TEN,Karl Klug\KlugKa00,DT,23,2017,Iowa
-5,143,DAL,Josh Thomas\ThomJo01,DB,22,2015,Buffalo
-5,144,HOU,Shiloh Keo\KeoxSh00,DB,23,2016,Idaho
-5,145,ATL,Jacquizz Rodgers\RodgJa00,RB,21,2017,Oregon St.
-5,146,WAS,DeJon Gomes\GomeDe00,DB,21,2013,Nebraska
-5,147,JAX,Rod Issac\IssaRo00,DB,22,2011,Middle Tenn. St.
-5,148,OAK,Denarius Moore\MoorDe02,WR,22,2015,Tennessee
-5,149,PHI,Dion Lewis\LewiDi00,RB,21,2017,Pittsburgh
-5,150,CLE,Jason Pinkston\PinkJa00,T,24,2013,Pittsburgh
-5,151,TAM,Ahmad Black\BlacAh00,DB,21,2013,Florida
-5,152,HOU,T.J. Yates\YateT.00,QB,24,2017,North Carolina
-5,153,NYJ,Jeremy Kerley\KerlJe00,WR,22,2017,TCU
-5,154,SEA,Richard Sherman\SherRi00,DB,23,2017,Stanford
-5,155,WAS,Niles Paul\PaulNi00,WR,22,2017,Nebraska
-5,156,SEA,Mark LeGree\LegrMa00,DB,22,,Appalachian St.
-5,157,DET,Doug Hogue\HoguDo01,LB,22,2012,Syracuse
-5,158,STL,Jermale Hines\HineJe00,DB,23,2011,Ohio St.
-5,159,NWE,Lee Smith\SmitLe00,TE,23,2017,Tennessee
-5,160,CHI,Nathan Enderle\EndeNa00,QB,23,,Idaho
-5,161,PHI,Julian Vandervelde\VandJu00,G,23,2015,Iowa
-5,162,PIT,Chris Carter\CartCh00,LB,22,2017,Fresno St.
-5,163,SFO,Daniel Kilgore\KilgDa00,G,23,2017,Appalachian St.
-5,164,BAL,Chykie Brown\BrowCh05,DB,24,2016,Texas
-5,165,BAL,Pernell McPhee\McPhPe00,DE,22,2017,Mississippi St.
-6,166,CAR,Lawrence Wilson\WilsLa01,LB,23,,Central Connecticut St.
-6,167,CIN,Ryan Whalen\WhalRy00,WR,22,2013,Stanford
-6,168,MIN,Demarcus Love\LoveDe00,OL,23,2014,Arkansas
-6,169,BUF,Chris White\WhitCh03,LB,22,2014,Mississippi St.
-6,170,MIN,Mistral Raymond\RaymMi00,DB,24,2014,South Florida
-6,171,ARI,Quan Sturdivant\SturQu00,LB,22,2012,North Carolina
-6,172,MIN,Brandon Fusco\FuscBr00,C,23,2017,Slippery Rock
-6,173,SEA,Byron Maxwell\MaxwBy00,DB,23,2017,Clemson
-6,174,MIA,Charles Clay\ClayCh00,TE,22,2017,Tulsa
-6,175,TEN,Byron Stingily\StinBy00,T,23,2014,Louisville
-6,176,DAL,Dwayne Harris\HarrDw00,WR,24,2017,East Carolina
-6,177,WAS,Evan Royster\RoysEv00,RB,23,2013,Penn St.
-6,178,WAS,Aldrick Robinson\RobiAl00,WR,23,2017,SMU
-6,179,GNB,Caleb Schlauderaff\SchlCa00,G,23,2013,Southern Utah
-6,180,BAL,Tyrod Taylor\TaylTy00,QB,22,2017,Virginia Tech
-6,181,OAK,Richard Gordon\GordRi00,TE,24,2015,Miami (FL)
-6,182,SFO,Ronald Johnson\JohnRo05,WR,23,2012,USC
-6,183,SDG,Jordan Todman\TodmJo00,RB,21,2017,Connecticut
-6,184,ARI,David Carter\CartDa01,DT,23,2013,UCLA
-6,185,NYG,Greg Jones\JoneGr02,LB,22,2012,Michigan St.
-6,186,GNB,D.J. Smith\SmitD.00,LB,22,2014,Appalachian St.
-6,187,TAM,Allen Bradford\BradAl00,RB,23,2015,USC
-6,188,IND,Chris Rucker\RuckCh00,DB,22,2011,Michigan St.
-6,189,DEN,Mike Mohamed\MohaMi00,LB,23,2015,California
-6,190,SFO,Colin Jones\JoneCo01,DB,23,2017,TCU
-6,191,PHI,Jason Kelce\KelcJa00,C,23,2017,Cincinnati
-6,192,ATL,Matthew Bosher\BoshMa00,K,23,2017,Miami (FL)
-6,193,PHI,Brian Rolle\RollBr00,LB,22,2012,Ohio St.
-6,194,NWE,Markell Carter\CartMa01,LB,21,,Central Arkansas
-6,195,CHI,J.T. Thomas\ThomJ.02,LB,23,2017,West Virginia
-6,196,PIT,Keith Williams\WillKe04,G,23,2012,Nebraska
-6,197,GNB,Ricky Elmore\ElmoRi00,DL,23,2012,Arizona
-6,198,NYG,Tyler Sash\SashTy00,DB,23,2012,Iowa
-6,199,KAN,Jerrell Powe\PoweJe00,DT,24,2014,Mississippi
-6,200,MIN,Ross Homan\HomaRo00,LB,24,,Ohio St.
-6,201,SDG,Stephen Schilling\SchiSt00,G,23,2014,Michigan
-6,202,NYG,Jacquian Williams\WillJa02,LB,23,2014,South Florida
-6,203,CAR,Zachary Williams\WillZa00,OL,22,,Washington St.
-7,204,DEN,Virgil Green\GreeVi00,TE,23,2017,Nevada
-7,205,SEA,Lazarius Levingston\LeviLa00,DL,23,2012,LSU
-7,206,BUF,Justin Rogers\RogeJu00,DB,23,2015,Richmond
-7,207,CIN,Korey Lindsey\LindKo00,DB,22,2012,Southern Illinois
-7,208,NYJ,Greg McElroy\McElGr00,QB,23,2012,Alabama
-7,209,DET,Johnny Culbreath\CulbJo00,OL,23,,South Carolina St.
-7,210,ATL,Andrew Jackson\JackAn00,OL,22,2012,Fresno St.
-7,211,SFO,Bruce Miller\MillBr02,DE,24,2015,Central Florida
-7,212,TEN,Zach Clayton\ClayZa00,DT,23,2012,Auburn
-7,213,WAS,Brandyn Thompson\ThomBr00,DB,21,2011,Boise St.
-7,214,HOU,Derek Newton\NewtDe00,T,23,2016,Arkansas St.
-7,215,MIN,D'Aundre Reed\ReedD'00,DE,23,2012,Arizona
-7,216,STL,Mikail Baker\BakeMi00,DB,24,,Baylor
-7,217,WAS,Maurice Hurt\HurtMa00,G,24,2012,Florida
-7,218,GNB,Ryan Taylor\TaylRy00,TE,23,2014,North Carolina
-7,219,NWE,Malcolm Williams\WillMa01,DB,23,2012,TCU
-7,220,DAL,Shaun Chapas\ChapSh00,RB,23,2012,Georgia
-7,221,NYG,Da'Rel Scott\ScotDa01,RB,23,2013,Maryland
-7,222,TAM,Anthony Gaitor\GaitAn00,DB,22,2014,Florida International
-7,223,KAN,Shane Bannon\BannSh00,RB,22,,Yale
-7,224,WAS,Markus White\WhitMa01,DE,23,2012,Florida St.
-7,225,BAL,Anthony Allen\AlleAn01,RB,23,2012,Georgia Tech
-7,226,NOR,Greg Romeus\RomeGr00,DL,23,2012,Pittsburgh
-7,227,NYJ,Scotty McKnight\McKnSc00,WR,23,,Colorado
-7,228,STL,Jabara Williams\WillJa12,LB,22,2012,S.F. Austin
-7,229,STL,Jonathan Nelson\NelsJo01,DB,23,2011,Oklahoma
-7,230,ATL,Cliff Matthews\MattCl01,DE,22,2016,South Carolina
-7,231,MIA,Frank Kearse\KearFr00,DT,22,2015,Alabama A&M
-7,232,PIT,Baron Batch\BatcBa00,RB,23,2012,Texas Tech
-7,233,GNB,Lawrence Guy\GuyxLa00,DT,21,2017,Arizona St.
-7,234,SDG,Andrew Gachkar\GachAn00,LB,22,2017,Missouri
-7,235,MIA,Jimmy Wilson\WilsJi00,DB,25,2015,Montana
-7,236,MIN,Stephen Burton\BurtSt00,WR,21,2013,Long Beach CC
-7,237,PHI,Greg Lloyd\LloyGr01,LB,22,2012,Connecticut
-7,238,TAM,Daniel Hardy\HardDa00,TE,24,,Idaho
-7,239,SFO,Michael Person\PersMi00,G,23,2017,Montana St.
-7,240,PHI,Stanley Havili\HaviSt00,RB,23,2014,USC
-7,241,OAK,David Ausberry\AusbDa00,WR,24,2014,USC
-7,242,SEA,Malcolm Smith\SmitMa02,LB,22,2016,USC
-7,243,NOR,Nate Bussey\BussNa00,LB,22,2011,Illinois
-7,244,CAR,Lee Ziemba\ZiemLe00,T,22,2012,Auburn
-7,245,BUF,Michael Jasper\JaspMi00,DT,24,,
-7,246,CIN,Jay Finley\FinlJa00,RB,23,,Baylor
-7,247,DEN,Jeremy Beal\BealJe00,DL,23,2012,Oklahoma
-7,248,CLE,Eric Hagg\HaggEr00,DB,22,2012,Nebraska
-7,249,ARI,DeMarco Sampson\SampDe00,WR,25,2011,San Diego St.
-7,250,SFO,Curtis Holcomb\HolcCu00,DB,23,2012,Florida A&M
-7,251,TEN,Tommie Campbell\CampTo00,DB,24,2014,Pittsburgh
-7,252,DAL,Bill Nagy\NagyBi00,G,23,2012,Wisconsin
-7,253,WAS,Chris Neild\NeilCh00,DT,23,2014,West Virginia
-7,254,HOU,Cheta Ozougwu\OzouCh00,DE,22,2014,Rice
+﻿Year,Rnd,Pick,Tm,Player,Pos,Age,To,College/Univ
+2011,1,1,CAR,Cam Newton\NewtCa00,QB,22,2017,Auburn
+2011,1,2,DEN,Von Miller\MillVo00,LB,22,2017,Texas A&M
+2011,1,3,BUF,Marcell Dareus\DareMa00,DT,21,2017,Alabama
+2011,1,4,CIN,A.J. Green\GreeA.00,WR,23,2017,Georgia
+2011,1,5,ARI,Patrick Peterson\PetePa00,DB,21,2017,LSU
+2011,1,6,ATL,Julio Jones\JoneJu02,WR,22,2017,Alabama
+2011,1,7,SFO,Aldon Smith\SmitAl04,DE,22,2015,Missouri
+2011,1,8,TEN,Jake Locker\LockJa00,QB,23,2014,Washington
+2011,1,9,DAL,Tyron Smith\SmitTy00,T,20,2017,USC
+2011,1,10,JAX,Blaine Gabbert\GabbBl00,QB,21,2017,Missouri
+2011,1,11,HOU,J.J. Watt\WattJ.00,DE,22,2017,Wisconsin
+2011,1,12,MIN,Christian Ponder\PondCh00,QB,23,2014,Florida St.
+2011,1,13,DET,Nick Fairley\FairNi00,DT,23,2016,Auburn
+2011,1,14,STL,Robert Quinn\QuinRo00,DE,21,2017,North Carolina
+2011,1,15,MIA,Mike Pouncey\PounMi00,G,22,2017,Florida
+2011,1,16,WAS,Ryan Kerrigan\KerrRy00,DE,23,2017,Purdue
+2011,1,17,NWE,Nate Solder\SoldNa00,T,23,2017,Colorado
+2011,1,18,SDG,Corey Liuget\LiugCo00,DT,21,2017,Illinois
+2011,1,19,NYG,Prince Amukamara\AmukPr00,DB,22,2017,Nebraska
+2011,1,20,TAM,Adrian Clayborn\ClayAd00,DE,23,2017,Iowa
+2011,1,21,CLE,Phil Taylor\TaylPh00,DT,23,2014,Baylor
+2011,1,22,IND,Anthony Castonzo\CastAn00,T,23,2017,Boston Col.
+2011,1,23,PHI,Danny Watkins\WatkDa00,G,26,2013,Baylor
+2011,1,24,NOR,Cameron Jordan\JordCa00,DE,22,2017,California
+2011,1,25,SEA,James Carpenter\CarpJa00,T,22,2017,Alabama
+2011,1,26,KAN,Jonathan Baldwin\BaldJo00,WR,22,2013,Pittsburgh
+2011,1,27,BAL,Jimmy Smith\SmitJi03,DB,23,2017,Colorado
+2011,1,28,NOR,Mark Ingram\IngrMa01,RB,21,2017,Alabama
+2011,1,29,CHI,Gabe Carimi\CariGa00,T,23,2014,Wisconsin
+2011,1,30,NYJ,Muhammad Wilkerson\WilkMu00,DT,21,2017,Temple
+2011,1,31,PIT,Cameron Heyward\HeywCa01,DE,22,2017,Ohio St.
+2011,1,32,GNB,Derek Sherrod\SherDe00,T,22,2014,Mississippi St.
+2011,2,33,NWE,Ras-I Dowling\DowlRa00,DB,23,2014,Virginia
+2011,2,34,BUF,Aaron Williams\WillAa00,DB,21,2016,Texas
+2011,2,35,CIN,Andy Dalton\DaltAn00,QB,23,2017,TCU
+2011,2,36,SFO,Colin Kaepernick\KaepCo00,QB,23,2016,Nevada
+2011,2,37,CLE,Jabaal Sheard\SheaJa00,DE,22,2017,Pittsburgh
+2011,2,38,ARI,Ryan Williams\WillRy00,RB,21,2014,Virginia Tech
+2011,2,39,TEN,Akeem Ayers\AyerAk00,LB,22,2017,UCLA
+2011,2,40,DAL,Bruce Carter\CartBr00,LB,23,2017,North Carolina
+2011,2,41,WAS,Jarvis Jenkins\JenkJa01,DT,23,2017,Clemson
+2011,2,42,HOU,Brooks Reed\ReedBr00,LB,24,2017,Arizona
+2011,2,43,MIN,Kyle Rudolph\RudoKy00,TE,21,2017,Notre Dame
+2011,2,44,DET,Titus Young\YounTi00,WR,22,2012,Boise St.
+2011,2,45,DEN,Rahim Moore\MoorRa00,DB,21,2015,UCLA
+2011,2,46,DEN,Orlando Franklin\FranOr00,T,23,2017,Miami (FL)
+2011,2,47,STL,Lance Kendricks\KendLa00,TE,23,2017,Wisconsin
+2011,2,48,OAK,Stefen Wisniewski\WisnSt01,C,22,2017,Penn St.
+2011,2,49,IND,Ben Ijalana\IjalBe00,T,22,2017,Villanova
+2011,2,50,SDG,Marcus Gilchrist\GilcMa00,DB,22,2017,Clemson
+2011,2,51,TAM,Da'Quan Bowers\BoweDa00,DE,21,2015,Clemson
+2011,2,52,NYG,Marvin Austin\AustMa00,DT,22,2014,North Carolina
+2011,2,53,CHI,Stephen Paea\PaeaSt00,DT,23,2017,Oregon St.
+2011,2,54,PHI,Jaiquawn Jarrett\JarrJa00,DB,22,2015,Temple
+2011,2,55,KAN,Rodney Hudson\HudsRo00,C,22,2017,Florida St.
+2011,2,56,NWE,Shane Vereen\VereSh00,RB,22,2017,California
+2011,2,57,DET,Mikel Leshoure\LeshMi00,RB,21,2013,Illinois
+2011,2,58,BAL,Torrey Smith\SmitTo02,WR,22,2017,Maryland
+2011,2,59,CLE,Greg Little\LittGr00,WR,22,2014,North Carolina
+2011,2,60,HOU,Brandon Harris\HarrBr00,DB,21,2014,Miami (FL)
+2011,2,61,SDG,Jonas Mouton\MoutJo00,LB,23,2012,Michigan
+2011,2,62,MIA,Daniel Thomas\ThomDa03,RB,23,2014,Kansas St.
+2011,2,63,PIT,Marcus Gilbert\GilbMa00,T,23,2017,Florida
+2011,2,64,GNB,Randall Cobb\CobbRa00,WR,21,2017,Kentucky
+2011,3,65,CAR,Terrell McClain\McClTe00,DT,23,2017,South Florida
+2011,3,66,CIN,Dontay Moch\MochDo00,LB,23,2014,Nevada
+2011,3,67,DEN,Nate Irving\IrviNa00,LB,23,2015,North Carolina St.
+2011,3,68,BUF,Kelvin Sheppard\ShepKe00,LB,23,2017,LSU
+2011,3,69,ARI,Rob Housler\HousRo01,TE,23,2015,Florida Atlantic
+2011,3,70,KAN,Justin Houston\HousJu00,LB,22,2017,Georgia
+2011,3,71,DAL,DeMarco Murray\MurrDe00,RB,23,2017,Oklahoma
+2011,3,72,NOR,Martez Wilson\WilsMa01,LB,23,2013,Illinois
+2011,3,73,NWE,Stevan Ridley\RidlSt00,RB,22,2017,LSU
+2011,3,74,NWE,Ryan Mallett\MallRy00,QB,23,2017,Arkansas
+2011,3,75,SEA,John Moffitt\MoffJo00,G,24,2013,Wisconsin
+2011,3,76,JAX,Will Rackley\RackWi01,G,21,2014,Lehigh
+2011,3,77,TEN,Jurrell Casey\CaseJu00,DT,21,2017,USC
+2011,3,78,STL,Austin Pettis\PettAu00,WR,23,2014,Boise St.
+2011,3,79,WAS,Leonard Hankerson\HankLe00,WR,23,2015,Miami (FL)
+2011,3,80,SFO,Chris Culliver\CullCh00,DB,23,2015,South Carolina
+2011,3,81,OAK,DeMarcus Van Dyke\VanDDe00,DB,22,2014,Miami (FL)
+2011,3,82,SDG,Vincent Brown\BrowVi00,WR,22,2015,San Diego St.
+2011,3,83,NYG,Jerrel Jernigan\JernJe00,WR,22,2014,Troy
+2011,3,84,TAM,Mason Foster\FostMa00,LB,22,2017,Washington
+2011,3,85,BAL,Jah Reid\ReidJa00,T,23,2016,Central Florida
+2011,3,86,KAN,Allen Bailey\BailAl00,DE,22,2017,Miami (FL)
+2011,3,87,IND,Drake Nevis\NeviDr00,DT,22,2013,LSU
+2011,3,88,NOR,Johnny Patrick\PatrJo00,DB,23,2013,Louisville
+2011,3,89,SDG,Shareece Wright\WrigSh00,DB,24,2017,USC
+2011,3,90,PHI,Curtis Marsh\MarsCu01,DB,23,2014,Utah St.
+2011,3,91,ATL,Akeem Dent\DentAk00,LB,24,2016,Georgia
+2011,3,92,OAK,Joe Barksdale\BarkJo00,T,23,2017,LSU
+2011,3,93,CHI,Chris Conte\ContCh00,DB,22,2017,California
+2011,3,94,NYJ,Kenrick Ellis\ElliKe01,DT,23,2015,Hampton
+2011,3,95,PIT,Curtis Brown\BrowCu01,DB,23,2013,Texas
+2011,3,96,GNB,Alex Green\GreeAl00,RB,23,2013,Hawaii
+2011,3,97,CAR,Sione Fua\FuaxSi00,DT,23,2014,Stanford
+2011,4,98,CAR,Brandon Hogan\HogaBr00,DB,23,2011,West Virginia
+2011,4,99,SEA,K.J. Wright\WrigK.00,LB,22,2017,Mississippi St.
+2011,4,100,BUF,Da'Norris Searcy\SearDa00,DB,22,2017,North Carolina
+2011,4,101,CIN,Clint Boling\BoliCl00,G,22,2017,Georgia
+2011,4,102,CLE,Jordan Cameron\CameJo00,TE,23,2016,USC
+2011,4,103,ARI,Sam Acho\AchoSa00,DE,23,2017,Texas
+2011,4,104,TAM,Luke Stocker\StocLu00,TE,23,2017,Tennessee
+2011,4,105,WAS,Roy Helu\HeluRo00,RB,22,2015,Nebraska
+2011,4,106,MIN,Christian Ballard\BallCh00,DT,22,2012,Iowa
+2011,4,107,SEA,Kris Durham\DurhKr00,WR,23,2014,Georgia
+2011,4,108,DEN,Quinton Carter\CartQu01,DB,23,2014,Oklahoma
+2011,4,109,TEN,Colin McCarthy\McCaCo00,LB,22,2014,Miami (FL)
+2011,4,110,DAL,David Arkin\ArkiDa00,G,23,2016,Missouri State
+2011,4,111,MIA,Clyde Gates\GateCl00,WR,25,2013,Abilene Christian
+2011,4,112,STL,Greg Salas\SalaGr00,WR,23,2016,Hawaii
+2011,4,113,OAK,Chimdi Chekwa\ChekCh00,DB,23,2016,Ohio St.
+2011,4,114,JAX,Cecil Shorts\ShorCe00,WR,23,2016,Mount Union
+2011,4,115,SFO,Kendall Hunter\HuntKe00,RB,23,2015,Oklahoma St.
+2011,4,116,PHI,Casey Matthews\MattCa00,LB,22,2014,Oregon
+2011,4,117,NYG,James Brewer\BrewJa00,T,23,2014,Indiana
+2011,4,118,KAN,Jalil Brown\BrowJa00,DB,23,2015,Colorado
+2011,4,119,IND,Delone Carter\CartDe01,RB,24,2013,Syracuse
+2011,4,120,PHI,Alex Henery\HeneAl00,K,24,2014,Nebraska
+2011,4,121,JAX,Chris Prosinski\ProsCh00,DB,24,2017,Wyoming
+2011,4,122,BUF,Chris Hairston\HairCh00,T,22,2017,Clemson
+2011,4,123,BAL,Tandon Doss\DossTa00,WR,22,2014,Indiana
+2011,4,124,CLE,Owen Marecic\MareOw00,RB,22,2012,Stanford
+2011,4,125,OAK,Taiwan Jones\JoneTa00,RB,23,2017,East. Washington
+2011,4,126,NYJ,Bilal Powell\PoweBi00,RB,22,2017,Louisville
+2011,4,127,HOU,Roc Carmichael\CarmRo00,DB,23,2014,Virginia Tech
+2011,4,128,PIT,Cortez Allen\AlleCo00,DB,22,2015,The Citadel
+2011,4,129,DEN,Julius Thomas\ThomJu00,TE,23,2017,Portland St.
+2011,4,130,TEN,Jamie Harper\HarpJa01,RB,22,2012,Clemson
+2011,4,131,GNB,Davon House\HousDa00,DB,22,2017,New Mexico St.
+2011,5,132,CAR,Kealoha Pilares\PilaKe00,WR,23,2012,Hawaii
+2011,5,133,BUF,Johnny White\WhitJo01,RB,23,2012,North Carolina
+2011,5,134,CIN,Robert Sands\SandRo00,DB,21,2012,West Virginia
+2011,5,135,KAN,Ricky Stanzi\StanRi00,QB,24,2014,Iowa
+2011,5,136,ARI,Anthony Sherman\SherAn00,RB,22,2017,Connecticut
+2011,5,137,CLE,Buster Skrine\SkriBu00,DB,22,2017,Tenn-Chattanooga
+2011,5,138,NWE,Marcus Cannon\CannMa00,T,23,2017,TCU
+2011,5,139,MIN,Brandon Burton\BurtBr00,DB,22,2013,Southern Utah
+2011,5,140,KAN,Gabe Miller\MillGa00,LB,23,2014,Oregon St.
+2011,5,141,GNB,D.J. Williams\WillD.00,TE,23,2014,Arkansas
+2011,5,142,TEN,Karl Klug\KlugKa00,DT,23,2017,Iowa
+2011,5,143,DAL,Josh Thomas\ThomJo01,DB,22,2015,Buffalo
+2011,5,144,HOU,Shiloh Keo\KeoxSh00,DB,23,2016,Idaho
+2011,5,145,ATL,Jacquizz Rodgers\RodgJa00,RB,21,2017,Oregon St.
+2011,5,146,WAS,DeJon Gomes\GomeDe00,DB,21,2013,Nebraska
+2011,5,147,JAX,Rod Issac\IssaRo00,DB,22,2011,Middle Tenn. St.
+2011,5,148,OAK,Denarius Moore\MoorDe02,WR,22,2015,Tennessee
+2011,5,149,PHI,Dion Lewis\LewiDi00,RB,21,2017,Pittsburgh
+2011,5,150,CLE,Jason Pinkston\PinkJa00,T,24,2013,Pittsburgh
+2011,5,151,TAM,Ahmad Black\BlacAh00,DB,21,2013,Florida
+2011,5,152,HOU,T.J. Yates\YateT.00,QB,24,2017,North Carolina
+2011,5,153,NYJ,Jeremy Kerley\KerlJe00,WR,22,2017,TCU
+2011,5,154,SEA,Richard Sherman\SherRi00,DB,23,2017,Stanford
+2011,5,155,WAS,Niles Paul\PaulNi00,WR,22,2017,Nebraska
+2011,5,156,SEA,Mark LeGree\LegrMa00,DB,22,,Appalachian St.
+2011,5,157,DET,Doug Hogue\HoguDo01,LB,22,2012,Syracuse
+2011,5,158,STL,Jermale Hines\HineJe00,DB,23,2011,Ohio St.
+2011,5,159,NWE,Lee Smith\SmitLe00,TE,23,2017,Tennessee
+2011,5,160,CHI,Nathan Enderle\EndeNa00,QB,23,,Idaho
+2011,5,161,PHI,Julian Vandervelde\VandJu00,G,23,2015,Iowa
+2011,5,162,PIT,Chris Carter\CartCh00,LB,22,2017,Fresno St.
+2011,5,163,SFO,Daniel Kilgore\KilgDa00,G,23,2017,Appalachian St.
+2011,5,164,BAL,Chykie Brown\BrowCh05,DB,24,2016,Texas
+2011,5,165,BAL,Pernell McPhee\McPhPe00,DE,22,2017,Mississippi St.
+2011,6,166,CAR,Lawrence Wilson\WilsLa01,LB,23,,Central Connecticut St.
+2011,6,167,CIN,Ryan Whalen\WhalRy00,WR,22,2013,Stanford
+2011,6,168,MIN,Demarcus Love\LoveDe00,OL,23,2014,Arkansas
+2011,6,169,BUF,Chris White\WhitCh03,LB,22,2014,Mississippi St.
+2011,6,170,MIN,Mistral Raymond\RaymMi00,DB,24,2014,South Florida
+2011,6,171,ARI,Quan Sturdivant\SturQu00,LB,22,2012,North Carolina
+2011,6,172,MIN,Brandon Fusco\FuscBr00,C,23,2017,Slippery Rock
+2011,6,173,SEA,Byron Maxwell\MaxwBy00,DB,23,2017,Clemson
+2011,6,174,MIA,Charles Clay\ClayCh00,TE,22,2017,Tulsa
+2011,6,175,TEN,Byron Stingily\StinBy00,T,23,2014,Louisville
+2011,6,176,DAL,Dwayne Harris\HarrDw00,WR,24,2017,East Carolina
+2011,6,177,WAS,Evan Royster\RoysEv00,RB,23,2013,Penn St.
+2011,6,178,WAS,Aldrick Robinson\RobiAl00,WR,23,2017,SMU
+2011,6,179,GNB,Caleb Schlauderaff\SchlCa00,G,23,2013,Southern Utah
+2011,6,180,BAL,Tyrod Taylor\TaylTy00,QB,22,2017,Virginia Tech
+2011,6,181,OAK,Richard Gordon\GordRi00,TE,24,2015,Miami (FL)
+2011,6,182,SFO,Ronald Johnson\JohnRo05,WR,23,2012,USC
+2011,6,183,SDG,Jordan Todman\TodmJo00,RB,21,2017,Connecticut
+2011,6,184,ARI,David Carter\CartDa01,DT,23,2013,UCLA
+2011,6,185,NYG,Greg Jones\JoneGr02,LB,22,2012,Michigan St.
+2011,6,186,GNB,D.J. Smith\SmitD.00,LB,22,2014,Appalachian St.
+2011,6,187,TAM,Allen Bradford\BradAl00,RB,23,2015,USC
+2011,6,188,IND,Chris Rucker\RuckCh00,DB,22,2011,Michigan St.
+2011,6,189,DEN,Mike Mohamed\MohaMi00,LB,23,2015,California
+2011,6,190,SFO,Colin Jones\JoneCo01,DB,23,2017,TCU
+2011,6,191,PHI,Jason Kelce\KelcJa00,C,23,2017,Cincinnati
+2011,6,192,ATL,Matthew Bosher\BoshMa00,K,23,2017,Miami (FL)
+2011,6,193,PHI,Brian Rolle\RollBr00,LB,22,2012,Ohio St.
+2011,6,194,NWE,Markell Carter\CartMa01,LB,21,,Central Arkansas
+2011,6,195,CHI,J.T. Thomas\ThomJ.02,LB,23,2017,West Virginia
+2011,6,196,PIT,Keith Williams\WillKe04,G,23,2012,Nebraska
+2011,6,197,GNB,Ricky Elmore\ElmoRi00,DL,23,2012,Arizona
+2011,6,198,NYG,Tyler Sash\SashTy00,DB,23,2012,Iowa
+2011,6,199,KAN,Jerrell Powe\PoweJe00,DT,24,2014,Mississippi
+2011,6,200,MIN,Ross Homan\HomaRo00,LB,24,,Ohio St.
+2011,6,201,SDG,Stephen Schilling\SchiSt00,G,23,2014,Michigan
+2011,6,202,NYG,Jacquian Williams\WillJa02,LB,23,2014,South Florida
+2011,6,203,CAR,Zachary Williams\WillZa00,OL,22,,Washington St.
+2011,7,204,DEN,Virgil Green\GreeVi00,TE,23,2017,Nevada
+2011,7,205,SEA,Lazarius Levingston\LeviLa00,DL,23,2012,LSU
+2011,7,206,BUF,Justin Rogers\RogeJu00,DB,23,2015,Richmond
+2011,7,207,CIN,Korey Lindsey\LindKo00,DB,22,2012,Southern Illinois
+2011,7,208,NYJ,Greg McElroy\McElGr00,QB,23,2012,Alabama
+2011,7,209,DET,Johnny Culbreath\CulbJo00,OL,23,,South Carolina St.
+2011,7,210,ATL,Andrew Jackson\JackAn00,OL,22,2012,Fresno St.
+2011,7,211,SFO,Bruce Miller\MillBr02,DE,24,2015,Central Florida
+2011,7,212,TEN,Zach Clayton\ClayZa00,DT,23,2012,Auburn
+2011,7,213,WAS,Brandyn Thompson\ThomBr00,DB,21,2011,Boise St.
+2011,7,214,HOU,Derek Newton\NewtDe00,T,23,2016,Arkansas St.
+2011,7,215,MIN,D'Aundre Reed\ReedD'00,DE,23,2012,Arizona
+2011,7,216,STL,Mikail Baker\BakeMi00,DB,24,,Baylor
+2011,7,217,WAS,Maurice Hurt\HurtMa00,G,24,2012,Florida
+2011,7,218,GNB,Ryan Taylor\TaylRy00,TE,23,2014,North Carolina
+2011,7,219,NWE,Malcolm Williams\WillMa01,DB,23,2012,TCU
+2011,7,220,DAL,Shaun Chapas\ChapSh00,RB,23,2012,Georgia
+2011,7,221,NYG,Da'Rel Scott\ScotDa01,RB,23,2013,Maryland
+2011,7,222,TAM,Anthony Gaitor\GaitAn00,DB,22,2014,Florida International
+2011,7,223,KAN,Shane Bannon\BannSh00,RB,22,,Yale
+2011,7,224,WAS,Markus White\WhitMa01,DE,23,2012,Florida St.
+2011,7,225,BAL,Anthony Allen\AlleAn01,RB,23,2012,Georgia Tech
+2011,7,226,NOR,Greg Romeus\RomeGr00,DL,23,2012,Pittsburgh
+2011,7,227,NYJ,Scotty McKnight\McKnSc00,WR,23,,Colorado
+2011,7,228,STL,Jabara Williams\WillJa12,LB,22,2012,S.F. Austin
+2011,7,229,STL,Jonathan Nelson\NelsJo01,DB,23,2011,Oklahoma
+2011,7,230,ATL,Cliff Matthews\MattCl01,DE,22,2016,South Carolina
+2011,7,231,MIA,Frank Kearse\KearFr00,DT,22,2015,Alabama A&M
+2011,7,232,PIT,Baron Batch\BatcBa00,RB,23,2012,Texas Tech
+2011,7,233,GNB,Lawrence Guy\GuyxLa00,DT,21,2017,Arizona St.
+2011,7,234,SDG,Andrew Gachkar\GachAn00,LB,22,2017,Missouri
+2011,7,235,MIA,Jimmy Wilson\WilsJi00,DB,25,2015,Montana
+2011,7,236,MIN,Stephen Burton\BurtSt00,WR,21,2013,Long Beach CC
+2011,7,237,PHI,Greg Lloyd\LloyGr01,LB,22,2012,Connecticut
+2011,7,238,TAM,Daniel Hardy\HardDa00,TE,24,,Idaho
+2011,7,239,SFO,Michael Person\PersMi00,G,23,2017,Montana St.
+2011,7,240,PHI,Stanley Havili\HaviSt00,RB,23,2014,USC
+2011,7,241,OAK,David Ausberry\AusbDa00,WR,24,2014,USC
+2011,7,242,SEA,Malcolm Smith\SmitMa02,LB,22,2016,USC
+2011,7,243,NOR,Nate Bussey\BussNa00,LB,22,2011,Illinois
+2011,7,244,CAR,Lee Ziemba\ZiemLe00,T,22,2012,Auburn
+2011,7,245,BUF,Michael Jasper\JaspMi00,DT,24,,
+2011,7,246,CIN,Jay Finley\FinlJa00,RB,23,,Baylor
+2011,7,247,DEN,Jeremy Beal\BealJe00,DL,23,2012,Oklahoma
+2011,7,248,CLE,Eric Hagg\HaggEr00,DB,22,2012,Nebraska
+2011,7,249,ARI,DeMarco Sampson\SampDe00,WR,25,2011,San Diego St.
+2011,7,250,SFO,Curtis Holcomb\HolcCu00,DB,23,2012,Florida A&M
+2011,7,251,TEN,Tommie Campbell\CampTo00,DB,24,2014,Pittsburgh
+2011,7,252,DAL,Bill Nagy\NagyBi00,G,23,2012,Wisconsin
+2011,7,253,WAS,Chris Neild\NeilCh00,DT,23,2014,West Virginia
+2011,7,254,HOU,Cheta Ozougwu\OzouCh00,DE,22,2014,Rice
