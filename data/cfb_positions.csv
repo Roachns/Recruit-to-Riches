@@ -1,0 +1,23 @@
+﻿POS,POSITION,GROUP,PLATOON
+PRO,Pro-Style Quarterback,Quarterback,Offense
+DUAL,Dual-Threat Quarterback,Quarterback,Offense
+APB,All Purpose Back,Running Back,Offense
+RB,Running Back,Running Back,Offense
+FB,Fullback,Running Back,Offense
+WR,Wide Receiver,Receiver,Offense
+TE,Tight End,Receiver,Offense
+OT,Offensive Tackle,Offensive Line,Offense
+OG,Offensive Guard,Offensive Line,Offense
+OC,Center (FB),Offensive Line,Offense
+WDE,Weak-Side Defensive End,Defensive Line,Defense
+SDE,Strong-Side Defensive End,Defensive Line,Defense
+DT,Defensive Tackle,Defensive Line,Defense
+ILB,Inside Linebacker,Linebacker,Defense
+OLB,Outside Linebacker,Linebacker,Defense
+CB,Cornerback,Defensive Back,Defense
+S,Safety,Defensive Back,Defense
+ATH,Athlete,Special Teams,Special Teams
+K,Kicker,Special Teams,Special Teams
+P,Punter,Special Teams,Special Teams
+LS,Long Snapper,Special Teams,Special Teams
+RET,Returner,Special Teams,Special Teams
