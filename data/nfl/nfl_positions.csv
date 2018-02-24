@@ -1,0 +1,69 @@
+﻿POS,POSITION,PLATOON
+QB,Quarterback,Offense
+RB,Running back,Offense
+HB,Halfback,Offense
+TB,Tailback,Offense
+FB,Fullback,Offense
+LH,Left Halfback,Offense
+RH,Right Halfback,Offense
+BB,Blocking Back,Offense
+B,Back,Offense
+WB,Wingback,Offense
+WR,Wide Receiver,Offense
+FL,Flanker,Offense
+SE,Split End,Offense
+E,End,Offense
+TE,Tight End,Offense
+LE,Left End,Offense
+LT,Left Tackle,Offense
+LOT,Left Offensive Tackle,Offense
+T,Tackle,Offense
+LG,Left Guard,Offense
+G,Guard,Offense
+C,Center,Offense
+RG,Right Guard,Offense
+RT,Right Tackle,Offense
+ROT,Right Offensive Tackle,Offense
+RE,Right End,Offense
+DL,Defensive Lineman,Defense
+LDE,Left Defensive End,Defense
+DE,Defensive End,Defense
+LDT,Left Defensive Tackle,Defense
+DT,Defensive Tackle,Defense
+NT,Nose Tackle,Defense
+MG,Middle Guard,Defense
+DG,Defensive Guard,Defense
+RDT,Right Defensive Tackle,Defense
+RDE,Right Defensive End,Defense
+LOLB,Left Outside Linebacker,Defense
+RUSH,Rush Linebacker,Defense
+OLB,Outside Linebacker,Defense
+LLB,Left Linebacker,Defense
+LILB,Left Inside Linebacker,Defense
+WILL,Weak Side Linebacker,Defense
+ILB,Inside Linebacker,Defense
+SLB,Strong Side Linebacker,Defense
+MLB,Middle Linebacker,Defense
+MIKE,Middle Linebacker,Defense
+WLB,Weak Side Linebacker,Defense
+RILB,Right Inside Linebacker,Defense
+RLB,Right Linebacker,Defense
+ROLB,Right Outside Linebacker,Defense
+SAM,Strong Side Linebacker,Defense
+LB,Linebacker,Defense
+LCB,Left Cornerback,Defense
+CB,Cornerback,Defense
+RCB,Right Cornerback,Defense
+SS,Strong Safety,Defense
+FS,Free Safety,Defense
+LDH,Left Defensive Halfback,Defense
+RDH,Right Defensive Halfback,Defense
+LS,Left Safety,Defense
+S,Safety,Defense
+RS,Right Safety,Defense
+DB,Defensive Back,Defense
+K,Kicker,Special Teams
+P,Punter,Special Teams
+PR,Punt Returner,Special Teams
+KR,Kick Returner,Special Teams
+RET,Returner,Special Teams
