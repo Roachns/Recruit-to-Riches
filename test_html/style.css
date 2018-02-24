@@ -24,12 +24,12 @@ body, html{
 }
 
 .pimg1{
-    background-image: url('../Project_2/NFL_Draft.jpg');
+    background-image: url('NFL_Draft.jpg');
     min-height: 100%;
 }
 
 .pimg2{
-    background-image: url('../Project_2/bama.jpg');
+    background-image: url('bama.jpg');
     min-height: 400px;
 }
 
