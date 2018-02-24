@@ -1,4 +1,4 @@
-﻿Pos,Meaning
+﻿POS,POSITION
 QB,Quarterback
 RB,Running back
 HB,Halfback
@@ -37,7 +37,7 @@ RDT,Right Defensive Tackle
 RDE,Right Defensive End
 LOLB,Left Outside Linebacker
 RUSH,Rush Linebacker
-OLB,Ooutside Linebacker
+OLB,Outside Linebacker
 LLB,Left Linebacker
 LILB,Left Inside Linebacker
 WILL,Weak Side Linebacker
