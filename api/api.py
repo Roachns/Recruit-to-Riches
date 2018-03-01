@@ -21,19 +21,9 @@ drafted = pd.read_sql_table('drafted_recruits', engine)
 recruits = pd.read_sql_table('cfb_recruits', engine)
 
 #----------------------------
-# BUILD FLASK ROUTES
+# Build data
 #----------------------------
-app = Flask(__name__)
-
-@app.route('/')
-def home():
-    return "Main page goes here"
-
-@app.route('/draft/rnd/')
-def starcount():
-    '''
-    Returns a list with single dict containing z,x,y for heatmap
-    '''
+def heatmap_data():
     star_rnd = drafted[['STAR','DRAFT_RND']]
     crosstab = pd.crosstab(star_rnd['DRAFT_RND'], star_rnd['STAR'])
 
@@ -46,8 +36,37 @@ def starcount():
     x = ['Rnd 1', 'Rnd 2', 'Rnd 3', 'Rnd 4', 'Rnd 5', 'Rnd 6', 'Rnd 7']
     y = ['1 Star','2 Star','3 Star','4 Star','5 Star']
 
-    heatmap = [{'z':z, 'x':x, 'y':y}]
+    data = [{'z':z, 'x':x, 'y':y, 'type':'heatmap'}]
+    return data
+
+
+#----------------------------
+# Create JSON variables
+#----------------------------
+heatmap = heatmap_data()
+
+
+
+#----------------------------
+# BUILD FLASK ROUTES
+#----------------------------
+app = Flask(__name__)
+
+@app.route('/')
+def home():
+    return "Main page goes here"
+
+
+@app.route('/draft/rnd/')
+def draft_round():
+    '''
+    Returns a list with single dict containing z,x,y for heatmap
+    '''
     return jsonify(heatmap)
+
+
+@app.route('/draft/ratio/')
+def draft_ratio():
 
 
 if __name__ == '__main__':
