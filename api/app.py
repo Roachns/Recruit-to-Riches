@@ -1,7 +1,7 @@
 #----------------------------
 # IMPORTS
 #----------------------------
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify, render_template
 
 import pandas as pd
 import numpy as np
@@ -40,7 +40,8 @@ def heatmap_data():
     return trace
 
 
-def bubble_data(star_int):
+def bubble_data(star):
+    star_int = int(star)
     df1 = recruits.loc[recruits['STAR'] == star_int]
     df1 = df1.groupby('COLLEGE').count().sort_values('PLAYER', ascending=False)
     df1 = df1['PLAYER'].to_frame().rename(columns={'PLAYER':'RECRUITED'})
@@ -64,7 +65,6 @@ def bubble_data(star_int):
     trace = {
         'x': x,
         'y': y,
-        'mode': 'markers',
         'marker': {'size': marker_size}
     }
 
@@ -76,10 +76,6 @@ def bubble_data(star_int):
 #----------------------------
 heatmap = heatmap_data()
 
-bubble_five = bubble_data(5)
-bubble_four = bubble_data(4)
-bubble_three = bubble_data(3)
-bubble_two = bubble_data(2)
 
 
 #----------------------------
@@ -89,7 +85,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def home():
-    return "Main page goes here"
+    return render_template('index.html')
 
 
 @app.route('/draft/rnd/')
@@ -100,14 +96,14 @@ def draft_round():
     return jsonify(heatmap)
 
 
-@app.route('/draft/ratio/')
-def draft_ratio():
+@app.route('/draft/ratio/<star>')
+def draft_ratio(star):
     '''
     Docstring
     '''
-    return jsonify(bubble_five)
+    return jsonify(bubble_data(star))
 
 
 if __name__ == '__main__':
-    #app.config['TEMPLATES_AUTO_RELOAD'] = True
+    app.config['TEMPLATES_AUTO_RELOAD'] = True
     app.run(debug=True)
