@@ -4,28 +4,21 @@
 from flask import Flask, request, jsonify
 
 import pandas as pd
+import numpy as np
 
 import sqlalchemy
-from sqlalchemy.ext.automap import automap_base
-from sqlalchemy.orm import Session
-from sqlalchemy import create_engine, inspect
+from sqlalchemy import create_engine
 
 #----------------------------
 # SQLALCHEMY SETUP
 #----------------------------
-engine = create_engine('sqlite:///../data/football.db')
+engine = create_engine('sqlite:///../data/football_new.db')
 
-Base = automap_base()
-Base.prepare(engine, reflect=True)
-
-cfb_positions = Base.classes.cfb_positions
-cfb_recruits = Base.classes.cfb_recruits
-nfl_draft = Base.classes.nfl_draft
-nfl_positions = Base.classes.nfl_positions
-nfl_teams = Base.classes.nfl_teams
-
-session = Session(engine)
-inspector = inspect(engine)
+#----------------------------
+# Create dataframes
+#----------------------------
+drafted = pd.read_sql_table('drafted_recruits', engine)
+recruits = pd.read_sql_table('cfb_recruits', engine)
 
 #----------------------------
 # BUILD FLASK ROUTES
@@ -36,26 +29,26 @@ app = Flask(__name__)
 def home():
     return "Main page goes here"
 
-@app.route('/recruits/starcount/')
+@app.route('/draft/rnd/')
 def starcount():
     '''
-    Returns dict with two lists.
-        STARS: Recruit star ratings
-        AVG_YEAR: Average count of recruits for each star rating
+    Returns a list with single dict containing z,x,y for heatmap
     '''
+    star_rnd = drafted[['STAR','DRAFT_RND']]
+    crosstab = pd.crosstab(star_rnd['DRAFT_RND'], star_rnd['STAR'])
 
-    df = pd.read_sql_table('cfb_recruits', engine)
-    df = df.groupby(['STAR']).count().reset_index()
-    df['STAR'] = ['One','Two','Three','Four','Five']
-    df['PLAYER'] = df['PLAYER'].apply(lambda x: int(round(x*0.17)))
-    df = df[['STAR','PLAYER']]
-    df = df.rename(columns={'STAR':'STARS','PLAYER':'AVG_YEAR'})
+    z = [[0,0,0,0,0,0,0]]
+    for i in range(4):
+        col = i+2
+        item = crosstab[col].tolist()
+        z.append(item)
 
-    star_dict = df.to_dict('list')
+    x = ['Rnd 1', 'Rnd 2', 'Rnd 3', 'Rnd 4', 'Rnd 5', 'Rnd 6', 'Rnd 7']
+    y = ['1 Star','2 Star','3 Star','4 Star','5 Star']
 
-    return jsonify(star_dict)
+    heatmap = [{'z':z, 'x':x, 'y':y}]
+    return jsonify(heatmap)
 
-@app.route()
 
 if __name__ == '__main__':
     #app.config['TEMPLATES_AUTO_RELOAD'] = True
