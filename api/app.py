@@ -36,7 +36,7 @@ def heatmap_data():
     x = ['Rnd 1', 'Rnd 2', 'Rnd 3', 'Rnd 4', 'Rnd 5', 'Rnd 6', 'Rnd 7']
     y = ['1 Star','2 Star','3 Star','4 Star','5 Star']
 
-    trace = [{'z':z, 'x':x, 'y':y, 'type':'heatmap', 'colorscale': 'Hot'}]
+    trace = [{'z':z, 'x':x, 'y':y, 'type':'heatmap', 'colorscale': 'Reds'}]
     return trace
 
 
@@ -108,6 +108,18 @@ def draft_ratio(star):
     Docstring
     '''
     return jsonify(bubble_data(star))
+
+
+@app.route('/recruits/waffle')
+def waffle_chart():
+    data = [
+        {'source': 'One-Two star', 'value': 885},
+        {'source': 'Three star', 'value': 1279},
+        {'source': 'Four star', 'value': 287},
+        {'source': 'Five star', 'value': 32},
+    ]
+
+    return jsonify(data)
 
 
 if __name__ == '__main__':
