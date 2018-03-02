@@ -14,6 +14,7 @@ function bubblePlot(star) {
             x: response.x,
             y: response.y,
             mode: 'markers',
+            text: response.text,
             marker: response.marker
         };
 
@@ -30,7 +31,7 @@ function bubblePlot(star) {
     })
 }
 
-bubblePlot(3);
+bubblePlot(5);
 
 
 function draftRndHeatmap() {

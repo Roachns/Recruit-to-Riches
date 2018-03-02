@@ -36,7 +36,7 @@ def heatmap_data():
     x = ['Rnd 1', 'Rnd 2', 'Rnd 3', 'Rnd 4', 'Rnd 5', 'Rnd 6', 'Rnd 7']
     y = ['1 Star','2 Star','3 Star','4 Star','5 Star']
 
-    trace = [{'z':z, 'x':x, 'y':y, 'type':'heatmap'}]
+    trace = [{'z':z, 'x':x, 'y':y, 'type':'heatmap', 'colorscale': 'Hot'}]
     return trace
 
 
@@ -60,12 +60,18 @@ def bubble_data(star):
 
     x = df_join['COLLEGE'].tolist()
     y = df_join['RATIO'].tolist()
-    marker_size = df_join['DRAFTED'].tolist()
+    draft_amt = df_join['DRAFTED'].tolist()
+    marker_size = [i * 200 for i in df_join['DRAFTED'].tolist()]
 
     trace = {
         'x': x,
         'y': y,
-        'marker': {'size': marker_size}
+        'text': draft_amt,
+        'marker': {
+            'size': marker_size,
+            'sizemode': 'area',
+            'color': 'purple'
+            }
     }
 
     return trace
