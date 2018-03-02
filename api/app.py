@@ -60,27 +60,26 @@ def bubble_data(star):
 
     x = df_join['COLLEGE'].tolist()
     y = df_join['RATIO'].tolist()
-    draft_amt = df_join['DRAFTED'].tolist()
+    draft_size = df_join['DRAFTED'].tolist()
+    recruit_size = df_join['RECRUITED'].tolist()
     marker_size = [i * 200 for i in df_join['DRAFTED'].tolist()]
+
+    labels = []
+    for i in range(len(df_join['DRAFTED'].tolist())):
+        labels.append(f'Drafted: {draft_size[i]} <br>Recruited: {recruit_size[i]}')
 
     trace = {
         'x': x,
         'y': y,
-        'text': draft_amt,
+        'text': labels,
         'marker': {
             'size': marker_size,
             'sizemode': 'area',
-            'color': 'purple'
+            'color': 'green'
             }
     }
 
     return trace
-
-
-#----------------------------
-# Create JSON variables
-#----------------------------
-heatmap = heatmap_data()
 
 
 
@@ -99,7 +98,7 @@ def draft_round():
     '''
     Returns a list with single dict containing z,x,y for heatmap
     '''
-    return jsonify(heatmap)
+    return jsonify(heatmap_data())
 
 
 @app.route('/draft/ratio/<star>')

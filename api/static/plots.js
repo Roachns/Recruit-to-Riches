@@ -20,14 +20,21 @@ function bubblePlot(star) {
             y: response.y,
             mode: 'markers',
             text: response.text,
-            marker: response.marker
+            marker: response.marker,
+            name: '# drafted'
         };
 
         var data = [trace1];
 
         var layout = {
-            title: 'School draft ratio: ' + star,
-            showlegend: false
+            title: 'Draftee to Recruit Ratio per School: ' + star + " Star",
+            titlefont: {size: 24},
+            showlegend: true,
+            xaxis: {
+                title: 'College',
+                titlefont: {size: 20}
+            },
+            yaxis: {title: '#drafted / #recruited'}
         }
 
         var BUBBLE = document.getElementById("bubble");
@@ -48,9 +55,15 @@ function draftRndHeatmap() {
         if (error) return console.warn(error);
 
         var data = response;
+
+        var layout = {
+            title: '# College players drafted in each round of NFL Draft',
+            titlefont: {size: 24},
+
+        }
         
         var RND = document.getElementById("rnd");
-        Plotly.newPlot(RND, data);
+        Plotly.newPlot(RND, data, layout);
     });
 }
 
@@ -82,9 +95,6 @@ function optionChanged() {
 
     bubblePlot(value);
 }
-
-
-
 
 
 function waffleStar() {
