@@ -50,3 +50,33 @@ function draftRndHeatmap() {
 }
 
 draftRndHeatmap();
+
+function selectStar() {
+    var dropdown = d3.select("#dropdown");
+    var options = [
+        {label: 'Five star', value: 5},
+        {label: 'Four star', value: 4},
+        {label: 'Three star', value: 3},
+        {label: 'Two star', value: 2}
+    ]
+
+    dropdown
+        .append('select')
+        .attr('id','selectStar')
+        .on('change', optionChanged)
+        .selectAll('option')
+        .data(options)
+        .enter()
+        .append('option')
+        .attr('value', d => d.value)
+        .text(d => d.label)
+}
+
+
+function optionChanged() {
+    let value = document.getElementById(this.id).value;
+
+    bubblePlot(value);
+}
+
+selectStar();
