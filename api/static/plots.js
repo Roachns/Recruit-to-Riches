@@ -1,3 +1,8 @@
+selectStar();
+bubblePlot(5);
+draftRndHeatmap();
+waffleStar();
+
 function bubblePlot(star) {
     var element = document.getElementById("bubble");
     element.innerHTML = "";
@@ -31,7 +36,6 @@ function bubblePlot(star) {
     })
 }
 
-bubblePlot(5);
 
 
 function draftRndHeatmap() {
@@ -50,7 +54,6 @@ function draftRndHeatmap() {
     });
 }
 
-draftRndHeatmap();
 
 function selectStar() {
     var dropdown = d3.select("#dropdown");
@@ -80,9 +83,7 @@ function optionChanged() {
     bubblePlot(value);
 }
 
-selectStar();
 
-waffleStar();
 
 
 
@@ -92,12 +93,6 @@ function waffleStar() {
 
     var route = "/recruits/waffle";
 
-    var csvdata = [
-        {'source': 'One-Two star', 'value': 885},
-        {'source': 'Three star', 'value': 1279},
-        {'source': 'Four star', 'value': 287},
-        {'source': 'Five star', 'value': 32}
-    ];
 
     d3.json(route, function(error, data) {
         if (error) return console.warn(error);
@@ -106,11 +101,11 @@ function waffleStar() {
           .selector(".chart")
           .data(data)
           .useWidth(false)
-          .label("Value of producers' sales in 2013, in thousands of dollars")
+          .label("Average College Football Recruits per Year (1 block = 10 recruits)")
           .size(20)
           .gap(6)
-          .rows(20)
-          .columns(50)
+          .rows(10)
+          .columns(25)
           .rounded(true)();
 
           
