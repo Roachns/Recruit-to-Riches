@@ -1,0 +1,78 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Recruits to NFL</title>
+    
+    <link rel="stylesheet" href="/static/bootstrap.min.css">
+    <link rel="stylesheet" href="/static/styles.css">
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.1/dist/leaflet.css" />
+
+
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script src="https://unpkg.com/leaflet@1.0.1/dist/leaflet.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.2.3/d3.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="{{ url_for('static', filename='js/leaflet-heat.js') }}"></script>
+ 
+
+
+
+
+</head>
+
+<body>
+    <div class="container">
+
+        <div class="span6" style="float: none; margin: 0 auto;">
+            <div class="jumbotron container">
+                <h6 class="display-3">Recruits: WHO is going to make it to the NFL</h6>
+                <hr class="my-4">
+                <p>By: A GOOD Team | Univ. of Texas at Austin | Data Analytics and Visualization Program</p>
+                <div class="textwidget">
+                    <div class="row justify-content-center">
+                        <a href="https://github.com/Roachns/Recruit-to-Riches/" target="_blank">
+                            <button type="button" class="btn btn-outline-dark">Learn More!</button>
+                        </a>
+                    </div>
+                </div>
+                <p id="date"></p>
+            </div>
+            <div class=" jumbotron span6" style="float: none; margin: 0 auto;">
+                <div class="col-md-12">
+                            <div id="stackHBar"></div>
+                            <hr>
+                            <p>Heat Map Shows Players Origin Density</p>
+                            <div id="map-holder">
+                                    <div class="container fill">
+                                      <div id="map">
+                                          
+                                      </div>
+                                    </div>
+                            </div>
+                            <hr>
+                            <div id="pie"></div>
+                            <hr>
+                            <div id="stackVBar"></div>
+                            <hr>
+                           
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+
+    <script src="{{ url_for('static', filename='js/app.js') }}"></script>
+
+
+</body>
+
+</html>
