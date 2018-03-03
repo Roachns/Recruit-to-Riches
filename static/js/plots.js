@@ -416,9 +416,9 @@ var WaffleChart = function() {
     divID = stackVBar
 ----------------------------------------------------------------------------------------------
 */
-var url = "/plot4";
+var url4 = "/plot4";
 function initPlot4() {
-    Plotly.d3.json(url, function (error, data) { 
+    Plotly.d3.json(url4, function (error, data) { 
         var plot04_data = data;
         plot4(plot04_data);
     });
@@ -476,9 +476,9 @@ function plot3(plot03_data) {
     divID = map
 ----------------------------------------------------------------------------------------------
 */
-var url = "/plot2";
+var url2 = "/plot2";
 function initPlot2() {
-    Plotly.d3.json(url, function (error, data) { 
+    Plotly.d3.json(url2, function (error, data) { 
         var plot02_data = data;
         plot2(plot02_data);
     });    
@@ -514,9 +514,9 @@ function plot2(plot02_data) {
     divID = stackHBar
 ----------------------------------------------------------------------------------------------
 */
-var url = "/plot1";
+var url1 = "/plot1";
 function initPlot1() {
-    Plotly.d3.json(url, function (error, data) { 
+    Plotly.d3.json(url1, function (error, data) { 
         var plot01_data = data;
         plot1(plot01_data);
     });
