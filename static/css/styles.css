@@ -1,3 +1,67 @@
+body, html{
+    height: 100%;
+    margin: 0;
+    padding-top: 0;
+    font-size: 16px;
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    line-height: 1.6em;
+    color:#ddd;
+    background-color: #282e34;
+}
+
+
+
+.top{
+    position: relative;
+    background-image: url("../test2/alone.jpeg");
+    min-height: 600px;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+hr{
+    width: 75%;
+    border-color: #ddd;
+    border-image: none;
+    border-style: solid none none;
+    border-width: 2px;
+}
+
+
+.second{
+    background-image: url("../test2/jags.jpg");
+    min-height: 400px;
+    position: relative;
+    background-position: center;
+    background-position: cover;
+    background-repeat: no-repeat;
+}
+
+.third{
+    background-image: url("");
+    min-height: 400px;
+}
+    
+.section{
+    text-align: center;
+    padding: 50px 80px;
+}
+
+
+
+
+
+.container-marketing{
+    padding: 20px 20px;
+    background-color: #282e34;
+    color: #ddd;
+    text-align: center;
+    font-size: 14px;
+    
+}
+
 /* Recruit map */
 #map
 {
