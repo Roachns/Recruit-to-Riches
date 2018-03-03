@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.1/dist/leaflet.css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.13.0/d3.min.js"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+    <header>
+    
+      <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+        <a class="navbar-brand" href="#">RecruitToRiches</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item">
+              <a class="nav-link" href="#sectionA">About</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Visualizations</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#sectionC">Team</a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+
+    </header>
+
+    <main role="main">
+        
+        
+        <div class="top">
+            <div class="ptext">
+                <span class="border">
+                    Recruit to Riches
+                </span>
+            </div>
+        </div>
+        <section class="section section-1">
+            <h2>Project Scope</h2>
+            <p>Recruit to Riches is a project analyzing individual high school football players recruiting rankings and how good of a probability indicator these rankings are on whether they will get drafted into the National Football League. Our team utilized the recruiting ranking website 247sports, which employs a proprietary algorithm that compiles prospect "rankings" and "ratings" listed in the public domain by the major media recruiting services. It converts average industry ranks and ratings into a linear composite index capping at 1.0000, which indicates a consensus No. 1 prospect across all services. We scraped the 247 site via the Python library "Beautiful Soup" for recruiting rankings from the years 2007-2012 and then analyzed with these results against our NFL draft csv data from the years 2010-2017.</p>
+        </section>
+        
+        <div class="second">
+            <span class="border">
+
+            </span>
+        </div>
+
+        <section class="section section-2">
+            <div class="container">
+                <div class="col-sm-4 col-sm-4">
+                    <div class="infor-left">
+                        <h2>Data Cleaning</h2>
+                        <p>Here we discuss the process of cleaning the data and append picutre of ipynb or other code to the right.Here we discuss the process of cleaning the data and append picutre of ipynb or other code to the right.Here we discuss the process of cleaning the data and append picutre of ipynb or other code to the right.</p>
+                    </div>
+                </div>
+                <div class="col-sm-8 col-sm-8">
+                    <div class="info-right">
+                        <img src="">
+                    </div>
+                </div>
+            </div>
+        </section>
+        <hr>
+        <section class="section section-3">
+            <h2>Exploring the Data</h2>
+            <p>Here we discuss the findings of the questions asked:Do recruiting rankings accurately reflect the skill of a player and their likelyhood to be drafted to the NFL?What towns and cities have the highest concentration of players rated in the 247sports composite? What towns and cities have the highest concentration of players drafted to the NFL? What collegiate programs are highest rated recruits attending? Do recruits that signed with certain collegiate programs have a higher chance of being drafted?Here we discuss the findings of the questions asked:Do recruiting rankings accurately reflect the skill of a player and their likelyhood to be drafted to the NFL?What towns and cities have the highest concentration of players rated in the 247sports composite? What towns and cities have the highest concentration of players drafted to the NFL? What collegiate programs are highest rated recruits attending? Do recruits that signed with certain collegiate programs have a higher chance of being drafted?Here we discuss the findings of the questions asked:Do recruiting rankings accurately reflect the skill of a player and their likelyhood to be drafted to the NFL?What towns and cities have the highest concentration of players rated in the 247sports composite? What towns and cities have the highest concentration of players drafted to the NFL? What collegiate programs are highest rated recruits attending? Do recruits that signed with certain collegiate programs have a higher chance of being drafted? </p>
+        </section>
+
+        <!--
+        <div class="third">
+                <span class="border">
+    
+                </span>
+        </div>
+    -->
+        <div class="fourth">
+            <div class="container">
+                 <div class=" jumbotron span6" style="float: none; margin: 0 auto;">
+                    <div class="col-md-12">
+                        <div id="stackHBar"></div>
+                        <hr>
+                        <p>Heat Map Shows Players Origin Density</p>
+                        <div id="map-holder">
+                                <div class="container fill">
+                                    <div id="map">
+                                          
+                                    </div>
+                                </div>
+                        </div>
+                        <hr>
+                        <div id="pie"></div>
+                        <hr>
+                        <div id="stackVBar"></div>
+                        <hr>
+                </div>
+            </div> 
+        </div>
+
+    
+        <div id="dropdown"></div>
+        <div id="bubble"></div>
+        <div id="rnd"></div>
+        <div class="chart"></div>
+    
+        <section id="team">
+            <div class="container-marketing">
+            <!-- Three columns of text below the carousel -->
+            <div class="row">
+            <div class="col-lg-4">
+                <img class="rounded-circle" src="../test2/naser.png" alt="Naser" width="140" height="140">
+                <h2>Naser Erwemi</h2>
+                <p>Insert snippet about what you do currently. Backend development as well as building visualizations.</p>
+                <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+            </div><!-- /.col-lg-4 -->
+            <div class="col-lg-4">
+                <img class="rounded-circle" src="../test2/stu.jpg" alt="Stu" width="140" height="140">
+                <h2>Stuart Gillies</h2>
+                <p>Insert snippet about what you do currently. Backend development as well as buliding visualizations</p>
+                <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+            </div><!-- /.col-lg-4 -->
+            <div class="col-lg-4">
+                <img class="rounded-circle" src="../test2/nick5.png" alt="Nick" width="140" height="140">
+                <h2>Nick Roach</h2>
+                <p>Insert snippet about what you do currently. Front end development.</p>
+                <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+            </div><!-- /.col-lg-4 -->
+            </div><!-- /.row -->
+            </div>
+        </section>
+        
+        
+
+    </main>
+   
+
+
+
+
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    
+    <script src="{{ url_for('static', filename='js/plots.js') }}"></script>
+    
+
+    
+
+</body>
+</html>
