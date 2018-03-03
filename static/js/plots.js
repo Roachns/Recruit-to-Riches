@@ -94,7 +94,7 @@ function optionChanged() {
 */
 function draftRndHeatmap() {
     var element = document.getElementById("draft-round");
-    element.innerHTML = "";
+    //element.innerHTML = "";
 
     var route = "/draft/rnd/";
 
@@ -426,7 +426,7 @@ function initPlot4() {
 }
 
 function plot4(plot04_data) {
-
+    console.log(plot04_data);
     var data = [];
     for (i = 0; i < plot04_data.length; i++) { 
         data.push(plot04_data[i]);
