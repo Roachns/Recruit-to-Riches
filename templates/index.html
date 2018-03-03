@@ -19,17 +19,7 @@
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarCollapse">
-          <ul class="navbar-nav mr-auto">
-            <li class="nav-item">
-              <a class="nav-link" href="#sectionA">About</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#">Visualizations</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#sectionC">Team</a>
-            </li>
-          </ul>
+
         </div>
       </nav>
 
@@ -46,8 +36,8 @@
             </div>
         </div>
         <section class="section section-1">
-            <h2>Project Scope Blah</h2>
-            <p>Recruit to Riches is a project analyzing individual high school football players recruiting rankings and how good of a probability indicator these rankings are on whether they will get drafted into the National Football League. Our team utilized the recruiting ranking website 247sports, which employs a proprietary algorithm that compiles prospect "rankings" and "ratings" listed in the public domain by the major media recruiting services. It converts average industry ranks and ratings into a linear composite index capping at 1.0000, which indicates a consensus No. 1 prospect across all services. We scraped the 247 site via the Python library "Beautiful Soup" for recruiting rankings from the years 2007-2012 and then analyzed with these results against our NFL draft csv data from the years 2010-2017.</p>
+            <h2>Project Scope </h2>
+            <p>Recruit to Riches is a project analyzing individual high school football players recruiting rankings and how good of a probability indicator these rankings are on whether they will get drafted into the National Football League. Our team utilized the recruiting ranking website 247sports, which employs a proprietary algorithm that compiles prospect "rankings" and "ratings" listed in the public domain by the major media recruiting services. It converts average industry ranks and ratings into a linear composite index capping at 1.0000, which indicates a consensus No. 1 prospect across all services.</p>
         </section>
         
         <div class="second">
@@ -56,91 +46,99 @@
             </span>
         </div>
 
-        <section class="section section-2">
-            <div class="container">
-                <div class="col-sm-4 col-sm-4">
-                    <div class="infor-left">
-                        <h2>Data Cleaning</h2>
-                        <p>Here we discuss the process of cleaning the data and append picutre of ipynb or other code to the right.Here we discuss the process of cleaning the data and append picutre of ipynb or other code to the right.Here we discuss the process of cleaning the data and append picutre of ipynb or other code to the right.</p>
-                    </div>
-                </div>
-                <div class="col-sm-8 col-sm-8">
-                    <div class="info-right">
-                        <img src="">
-                    </div>
-                </div>
+        
+        
+       <section class="section section-2">
+        <h2>Exploring the Data</h2>
+        <p><ul></ul><li>What towns and cities have the highest concentration of players rated in the 247sports composite?</li>
+            <li>Do recruiting rankings accurately reflect the skill of a player and their likelyhood to be drafted to the NFL?</li>
+            <li>What collegiate programs are highest rated recruits attending?</li>
+            <li>Do recruits that signed with certain collegiate programs have a higher chance of being drafted?</li></ul></p>
+       </section>
+       <hr>
+       <div class="container">
+            <div class="third">
+                <span class="border">
+
+                </span>
             </div>
-        </section>
+       </div>
+        <hr>
+        <div class="fourth">
+            <span class="border">
+
+            </span>
+        </div>
         <hr>
         <section class="section section-3">
-            <h2>Exploring the Data</h2>
-            <p>Here we discuss the findings of the questions asked:Do recruiting rankings accurately reflect the skill of a player and their likelyhood to be drafted to the NFL?What towns and cities have the highest concentration of players rated in the 247sports composite? What towns and cities have the highest concentration of players drafted to the NFL? What collegiate programs are highest rated recruits attending? Do recruits that signed with certain collegiate programs have a higher chance of being drafted?Here we discuss the findings of the questions asked:Do recruiting rankings accurately reflect the skill of a player and their likelyhood to be drafted to the NFL?What towns and cities have the highest concentration of players rated in the 247sports composite? What towns and cities have the highest concentration of players drafted to the NFL? What collegiate programs are highest rated recruits attending? Do recruits that signed with certain collegiate programs have a higher chance of being drafted?Here we discuss the findings of the questions asked:Do recruiting rankings accurately reflect the skill of a player and their likelyhood to be drafted to the NFL?What towns and cities have the highest concentration of players rated in the 247sports composite? What towns and cities have the highest concentration of players drafted to the NFL? What collegiate programs are highest rated recruits attending? Do recruits that signed with certain collegiate programs have a higher chance of being drafted? </p>
+            <h2>Recruit Origins</h2>
+            <p>Examination of the heat-map and stacked horizontal bar chart show us that recruits are prmiarily located in urban centers as opposed to rural areas. The highest concentration of recruits came from California, Georgia, Florida, Ohio and Texas.</p>
         </section>
-
-        <!--
-        <div class="third">
+        <hr>
+        <div class="container">
+            <div class="chart"></div>
+        </div>
+        <hr>
+        <div class="container">
+            <div class="fifth">
                 <span class="border">
     
                 </span>
+            </div>  
         </div>
-    -->
-        <!--<div class="fourth">
-            <div class="container">
-                 <div class=" jumbotron span6" style="float: none; margin: 0 auto;">
-                    <div class="col-md-12">
-                        <div id="stackHBar"></div>
-                        <hr>
-                        <p>Heat Map Shows Players Origin Density</p>
-                        <div id="map-holder">
-                                <div class="container fill">
-                                    <div id="map">
-                                          
-                                    </div>
-                                </div>
-                        </div>
-                        <hr>
-                        <div id="pie"></div>
-                        <hr>
-                        <div id="stackVBar"></div>
-                        <hr>
-                </div>
-            </div>
-        </div>-->
-        
-        <div id="stackHBar"></div>
-        <div id="pie"></div>
-        <div id="stackVBar"></div>
-        <div id="dropdown"></div>
-        <div id="bubble"></div>
-        <div id="draft-round"></div>
-        <div class="chart"></div>
+        <hr>
+        <div class="container">
+            <span class="border">
+                <div id="draft-round"></div>
+            </span>
+        </div>
+        <section class ="section section-4">
+            <h2>Star Power</h2>
+            <p>Of the hundreds of thousands of highschool football players only a limited amount are given star ratings by recruiting services. Of these , 1 and 2 stars make up 36%, 3 stars make up 52%, 4 stars make up 11%, and 5 stars make up just 1% of the total rated recruits. Each year only 7% of eligible players will be drafted. 5 and 4 stars dominate the early rounds 1 through 3 of the draft however 3 stars and 2 star rated players fill out the majority of the later rounds. No one star players were drafted during our analysis.</p>
+        </section>
+        <div class="container">
+            <span class="border">
+                <div id="bubble"></div>
+                <div id="dropdown"></div>
+            </span>
+        </div>
+        <section class="section section-5">
+            <h2>Mascots Matter</h2>
+            <p>When it comes to your recruiting rank, players should be aware of which schools will put them in the best postion to be drafted. 5 stars have high chances of being drafted from Clemson while 4 stars should look to Iowa and Louisville. Interestingly 3 star recruits have good chances of standing out if they attend small programs such as Georgia Southern.</p>
+        </section>
+
+        <hr>
     
         <section id="team">
             <div class="container-marketing">
             <!-- Three columns of text below the carousel -->
             <div class="row">
             <div class="col-lg-4">
-                <img class="rounded-circle" src="../test2/naser.png" alt="Naser" width="140" height="140">
+                <img class="rounded-circle" src="static/assets/naser.png" alt="Naser" width="140" height="140">
                 <h2>Naser Erwemi</h2>
-                <p>Insert snippet about what you do currently. Backend development as well as building visualizations.</p>
+                <p>Worked on backend development as well as building visualizations.</p>
                 <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
             </div><!-- /.col-lg-4 -->
             <div class="col-lg-4">
-                <img class="rounded-circle" src="../test2/stu.jpg" alt="Stu" width="140" height="140">
+                <img class="rounded-circle" src="static/assets/stu.jpg" alt="Stu" width="140" height="140">
                 <h2>Stuart Gillies</h2>
-                <p>Insert snippet about what you do currently. Backend development as well as buliding visualizations</p>
+                <p>Worked on backend development as well as buliding visualizations</p>
                 <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
             </div><!-- /.col-lg-4 -->
             <div class="col-lg-4">
-                <img class="rounded-circle" src="../test2/nick5.png" alt="Nick" width="140" height="140">
+                <img class="rounded-circle" src="static/assets/nick6.png" alt="Nick" width="140" height="140">
                 <h2>Nick Roach</h2>
-                <p>Insert snippet about what you do currently. Front end development.</p>
-                <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+                <p>Worked on front end development as well as visualizations.</p>
+                <p><a class="btn btn-secondary" href="#https://www.linkedin.com/in/nicholas-roach-313652103/" role="button">View details &raquo;</a></p>
             </div><!-- /.col-lg-4 -->
             </div><!-- /.row -->
             </div>
         </section>
-        
+        <hr>
+        <footer>
+            <p> <a href="https://github.com/Roachns/Recruit-to-Riches">
+            Recruit to Riches</a></p>
+        </footer>
         
 
     </main>

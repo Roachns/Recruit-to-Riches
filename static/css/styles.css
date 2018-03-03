@@ -10,11 +10,19 @@ body, html{
     background-color: #282e34;
 }
 
+footer{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    text-align: center;
+    color: #ddd;
+}
 
+li{ list-style-type: none; 
+} 
 
 .top{
     position: relative;
-    background-image: url("../test2/alone.jpeg");
+    background-image: url("../assets/alone.jpeg");
     min-height: 600px;
     background-attachment: fixed;
     background-position: center;
@@ -31,7 +39,7 @@ hr{
 
 
 .second{
-    background-image: url("../test2/jags.jpg");
+    background-image: url("../assets/jags.jpg");
     min-height: 400px;
     position: relative;
     background-position: center;
@@ -40,8 +48,38 @@ hr{
 }
 
 .third{
-    background-image: url("");
+    margin-top: 40px;
+    margin-bottom: 40px;
+    background-image: url("../assets/map_with_title.png");
     min-height: 400px;
+    position: relative;
+    background-position: center;
+    background-position: cover;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.fourth{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    background-image: url("../assets/horizontalBar.png");
+    min-height: 400px;
+    position: center;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+
+}
+.fifth{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    background-image: url("../assets/verticalBar.png");
+    min-height: 400px;
+    position: center;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+
 }
     
 .section{
@@ -54,7 +92,7 @@ hr{
 
 
 .container-marketing{
-    padding: 20px 20px;
+    padding: 40px 20px;
     background-color: #282e34;
     color: #ddd;
     text-align: center;
