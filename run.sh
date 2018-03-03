@@ -1,1 +1,1 @@
-FLASK_APP=recruittoriches/app.py flask run
+FLASK_APP=recuittoriches/app.py flask run

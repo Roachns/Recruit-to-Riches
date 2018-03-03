@@ -1,1 +1,1 @@
-web: gunicorn recruittoriches.app:app
+web: gunicorn recuittoriches.app:app
