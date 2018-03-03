@@ -1,1 +1,1 @@
-web: gunicorn recuittoriches.app:app
+web: python app.py

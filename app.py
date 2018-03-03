@@ -228,4 +228,4 @@ def draftStackedBar():
 
 if __name__ == '__main__':
     app.config['TEMPLATES_AUTO_RELOAD'] = True
-    app.run(debug=True)
+    app.run(port=os.environ.get('PORT'), host="0.0.0.0")
