@@ -1,1 +1,1 @@
-web: gunicorn recruittoriches.app:app
+web: python app.py
