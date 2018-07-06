@@ -2,6 +2,7 @@
 
 ## Project Scope
 
+
 ### Introduction
 Recruit to Riches is a project analyzing individual high school football players recruiting rankings and how good of a probability indicator these rankings are on whether they will get drafted into the National Football League.
 
@@ -28,4 +29,4 @@ National Football League Draft Data: https://www.pro-football-reference.com/year
 Our team will present our findings in an html format which tells a compelling story through the use of a variety of visualizations including waffle charts, heat maps, bubble charts, and others created via the JavaScript libraries D3 and Leaflet. [vizualizations inspiration](example_visuals.md)
 
 #### Draft Site layout
-![](/example_images/recruit-riches-layout.png)
+
