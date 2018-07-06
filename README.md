@@ -28,5 +28,5 @@ Our team will look to answer the following questions:
 ### Presentation and Visualization 
 Our team will present our findings in an html format which tells a compelling story through the use of a variety of visualizations including waffle charts, heat maps, bubble charts, and others created via the JavaScript libraries D3 and Leaflet. [vizualizations inspiration](example_visuals.md)
 
-#### Draft Site layout
+
 
