@@ -1,5 +1,5 @@
 # Recruit-to-Riches
-
+![Image of Recruits](https://github.com/Roachns/Recruit-to-Riches/blob/master/static/assets/recruits.jpeg)
 ## Project Scope
 
 
